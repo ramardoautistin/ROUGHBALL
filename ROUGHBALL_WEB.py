@@ -466,13 +466,76 @@ elif st.session_state.game_mode == 'DYNASTY':
         if st.button("RETURN TO MENU"): st.session_state.game_mode = 'MENU'; st.rerun()
 
 elif st.session_state.game_mode == 'DRAFT':
-    st.title("SCOUTING COMBINE")
-    dd = st.session_state.draft_data
-    for p in dd['pool']:
-        c1, c2, c3 = st.columns([1, 4, 2])
-        c1.write(f"#{p['id']}")
-        c2.write(f"**{p['pos']}** ({p['suit']})")
-        if p['scouted']: c3.write("⭐" * p['true_stars'] if p['true_stars'] > 0 else "BUST")
-        else: 
-            if c3.button("SCOUT", key=f"s_{p['id']}"): p['scouted'] = True; st.rerun()
-    if st.button("EXIT DRAFT"): st.session_state.game_mode = 'MENU'; st.rerun()
+    st.title("MOCK DRAFT: CLASS OF '26")
+    st.markdown("### SCOUTING MANAGER & LEAGUE SIMULATION")
+    
+    # "Run Simulation" Button (The Trigger)
+    if st.button("RUN MOCK DRAFT SIMULATION", type="primary"):
+        st.session_state.draft_results = []
+        
+        # 1. ESTABLISH DRAFT ORDER (Reverse of default ID for demo, or random)
+        draft_order = list(TEAMS.keys())
+        random.shuffle(draft_order)
+        
+        # 2. GENERATE PICKS FOR EVERY TEAM
+        for rank, t_id in enumerate(draft_order):
+            team_name = TEAMS[t_id]['name']
+            
+            # Generate 3 Rounds of Picks per Team (As per your loop)
+            team_picks = []
+            for _ in range(3):
+                # ROUGHBALL GENERATION LOGIC
+                s_key = random.choice(list(SYMBOLS.keys())[:-1]) # No JKR
+                suit_icon = SYMBOLS[s_key]
+                
+                pos = random.choice(['QB', 'RB', 'WR', 'TE', 'OL', 'DL', 'LB', 'CB', 'S', 'K'])
+                
+                # Star Rating Math (Weighted)
+                # 10% Chance of 5-Star, 20% 4-Star, etc.
+                roll = random.randint(1, 100)
+                if roll > 95: stars = 5
+                elif roll > 80: stars = 4
+                elif roll > 50: stars = 3
+                elif roll > 20: stars = 2
+                else: stars = 1
+                
+                # 5% Chance of Total Bust (0 Stars)
+                if random.randint(1, 20) == 1: stars = 0
+                
+                star_str = "★" * stars if stars > 0 else "BUST"
+                
+                # THE FLAVOR STRING: "♥ QB(★★★)"
+                pick_str = f"{suit_icon} {pos}({star_str})"
+                team_picks.append(pick_str)
+            
+            st.session_state.draft_results.append({
+                'Rank': rank + 1,
+                'Team': team_name,
+                'R1': team_picks[0],
+                'R2': team_picks[1],
+                'R3': team_picks[2]
+            })
+
+    # DISPLAY THE BOARD (If simulation ran)
+    if 'draft_results' in st.session_state and st.session_state.draft_results:
+        # We use a dataframe for that clean "Terminal Table" look on Web
+        df = pd.DataFrame(st.session_state.draft_results)
+        st.dataframe(
+            df, 
+            column_config={
+                "Rank": st.column_config.NumberColumn(format="%d"),
+                "Team": st.column_config.TextColumn(width="medium"),
+                "R1": st.column_config.TextColumn(width="large"),
+                "R2": st.column_config.TextColumn(width="large"),
+                "R3": st.column_config.TextColumn(width="large"),
+            },
+            hide_index=True,
+            use_container_width=True
+        )
+        
+        st.caption("Key: ★ = Talent Rating | BUST = 0 Stars | Suit indicates primary attribute bias.")
+
+    st.write("---")
+    if st.button("RETURN TO MENU"):
+        st.session_state.game_mode = 'MENU'
+        st.rerun()
