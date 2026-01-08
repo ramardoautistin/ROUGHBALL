@@ -471,6 +471,7 @@ elif st.session_state.game_mode == 'DRAFT':
     
     # "Run Simulation" Button
     if st.button("RUN MOCK DRAFT SIMULATION", type="primary"):
+        random.seed(time.time())
         st.session_state.draft_results = []
         
         # 1. ESTABLISH DRAFT ORDER (Randomized for Mock)
