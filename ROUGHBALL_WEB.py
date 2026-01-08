@@ -4,8 +4,8 @@ import time
 import pandas as pd
 
 # =======================================================
-#       ROUGHBALL PRO: THE COMPLETE SUITE (WEB)
-#       Source: ROUGHBALL_DEFINITIVE.py (Merged)
+#       ROUGHBALL PRO: DEFINITIVE EDITION (WEB)
+#       Source: ROUGHBALL_DEFINITIVE.py
 # =======================================================
 
 st.set_page_config(page_title="ROUGHBALL PRO", layout="wide", initial_sidebar_state="expanded")
@@ -54,7 +54,7 @@ def get_tier_name(team_data, rank):
     return team_data['tiers'].get(rank, team_data['name'])
 
 def init_stats():
-    # Helper to calculate derived stats (STA/SPD/KCK/CAT)
+    # Helper to calculate derived stats
     for t in TEAMS:
         TEAMS[t]['save'] = {
             'STA': TEAMS[t]['stats']['TKL'],
@@ -63,6 +63,7 @@ def init_stats():
             'CAT': TEAMS[t]['stats']['PAS']
         }
         TEAMS[t]['playbook'] = ["[EMPTY]"] * 5
+        TEAMS[t]['boosts'] = {'TKL': 0, 'AWR': 0, 'INT': 0, 'PAS': 0} # Week Event Boosts
 
 # --- [3] STATE MANAGEMENT ---
 if 'init_done' not in st.session_state:
@@ -82,10 +83,6 @@ def generate_draft_class():
         suit = random.choice(list(SYMBOLS.keys())[:-1]) # No JKR suit
         stars = random.randint(1, 5)
         if random.randint(1, 10) == 10: stars = 0 # BUST chance
-        
-        # Hidden potential logic
-        display_stars = "?" 
-        
         prospects.append({
             'id': i+1, 'pos': pos, 'suit': suit, 
             'true_stars': stars, 'scouted': False
@@ -94,7 +91,7 @@ def generate_draft_class():
 
 def init_dynasty(user_team_id, league_rank):
     schedule = []
-    # Create a simple 5-week schedule against random opponents
+    # Create a 5-week schedule
     opponents = [tid for tid in TEAMS if tid != user_team_id]
     random.shuffle(opponents)
     
@@ -107,7 +104,8 @@ def init_dynasty(user_team_id, league_rank):
         'league_rank': league_rank,
         'schedule': schedule,
         'record': {'W': 0, 'L': 0, 'T': 0},
-        'current_week': 1
+        'current_week': 1,
+        'week_day': 'Mon' # Simulates WEEKLY_SCHEDULE progression
     }
 
 # --- [5] SMART BOT ---
@@ -148,13 +146,14 @@ def smart_bot_logic(rank_val, bot_is_driving, bot_deck):
     
     return sum(groups[best_suit]), best_suit, max(groups[best_suit]+[0]), display, special
 
-# --- [6] COMPLICATION RESOLVER ---
+# --- [6] COMPLICATION RESOLVER (FLAVOR TEXT PRESERVED) ---
 def resolve_complication_web(u_team, b_team, u_driving, u_name, b_name):
     d4 = random.randint(1, 4)
     stat_key = SAVING_MAP[str(d4)]
     st.markdown(f"**[!] COMPLICATION ROLLED (D4):** {d4} - Checking {stat_key}")
     
-    u_base = u_team['save'][stat_key]
+    # Calculate stats with any Dynasty Boosts applied
+    u_base = u_team['save'][stat_key] + u_team['boosts'].get(stat_key, 0)
     b_base = b_team['save'][stat_key]
     u_roll = random.randint(1, 6) + u_base
     b_roll = random.randint(1, 6) + b_base
@@ -163,7 +162,8 @@ def resolve_complication_web(u_team, b_team, u_driving, u_name, b_name):
     points, flip = 0, False
     
     if d4 == 1: # SACK
-        st.write(f"   > **SACK!** (STA Check) | {u_name}:{u_roll} vs {b_name}:{b_roll}")
+        st.write(f"   > **SACK! (Loss of possession)** - (STA) CHECK")
+        st.write(f"   > {u_name} [{u_roll}] vs {b_name} [{b_roll}]")
         if u_driving and user_failed:
              st.error("   >>> QG SACKED! (+2 PTS). Possession Flip!"); points = 2; flip = True
         elif not u_driving and not user_failed:
@@ -171,15 +171,18 @@ def resolve_complication_web(u_team, b_team, u_driving, u_name, b_name):
         else: st.info("   >>> TACKLE SHED! Play continues.")
 
     elif d4 == 2: # OUT OF BOUNDS
-        st.write(f"   > **OUT OF BOUNDS!** (CAT Check) - Resetting play.")
+        st.write(f"   > **OUT OF BOUNDS! (Reset play)** - (CAT) CHECK")
+        st.info("   >>> Play RESET to Neutral Snap Point.")
 
     elif d4 == 3: # PENALTY
-        st.write(f"   > **PENALTY!** (KCK Check) | {u_name}:{u_roll} vs {b_name}:{b_roll}")
+        st.write(f"   > **PENALTY! (Personal Foul)** - (KCK) CHECK")
+        st.write(f"   > {u_name} [{u_roll}] vs {b_name} [{b_roll}]")
         if user_failed: st.error("   >>> PERSONAL FOUL! Opponent +3 PTS."); points = 3
         else: st.success("   >>> DISCIPLINED! No foul.")
 
-    elif d4 == 4: # INT
-        st.write(f"   > **INTERCEPTION!** (AWR Check) | {u_name}:{u_roll} vs {b_name}:{b_roll}")
+    elif d4 == 4: # INTERCEPTION
+        st.write(f"   > **INTERCEPTION! (Possession Flip)** - (AWR) CHECK")
+        st.write(f"   > {u_name} [{u_roll}] vs {b_name} [{b_roll}]")
         if u_driving and user_failed:
             st.error("   >>> TURNOVER! (+1 Momentum PT)"); points = 1; flip = True
         elif not u_driving and not user_failed:
@@ -193,7 +196,6 @@ def resolve_complication_web(u_team, b_team, u_driving, u_name, b_name):
 #               THE MATCH ENGINE (MODULAR)
 # =======================================================
 def render_match_engine():
-    # This runs inside the main loop when game_mode == 'MATCH'
     if 'match_state' not in st.session_state:
         st.session_state.match_state = 'KICKOFF'
     
@@ -212,6 +214,7 @@ def render_match_engine():
     # --- KICKOFF PHASE ---
     if st.session_state.match_state == 'KICKOFF':
         st.header(f"{md['u_name']} vs {md['b_name']}")
+        st.write("The referee holds the coin...")
         if st.button("FLIP COIN"):
             uc = random.choice(["Heads", "Tails"])
             res = random.choice(["Heads", "Tails"])
@@ -240,7 +243,7 @@ def render_match_engine():
                     st.session_state.match_state = 'INPUT'
                     st.rerun()
         with c2:
-            if st.button("TIMEOUT"):
+            if st.button("TIMEOUT (T)"):
                 if md['u_timeouts'] > 0:
                     md['u_timeouts'] -= 1
                     md['bot_deck'] = get_fresh_deck()
@@ -254,7 +257,6 @@ def render_match_engine():
         with st.form("inputs"):
             cards = [st.text_input(f"Card {i+1}", key=f"c{i}") for i in range(num)]
             if st.form_submit_button("HIKE"):
-                # PROCESS INPUT
                 u_cards, u_hand, u_val, u_suit, u_max = [], [], 0, "", 0
                 v_map = {'J':11, 'Q':12, 'K':13, 'A':14, 'JKR':15}
                 played_jkr = False
@@ -274,7 +276,6 @@ def render_match_engine():
                     if v > u_max: u_max = v
                     u_hand.append({'val':v, 'suit':s})
                 
-                # SPECIALS CHECK
                 u_spec = None
                 if played_jkr:
                     eff = u_suit
@@ -292,8 +293,6 @@ def render_match_engine():
     # --- RESOLVE PHASE ---
     elif st.session_state.match_state == 'RESOLVE':
         pd = st.session_state.play_data
-        
-        # Bot Logic
         b_val, b_suit, b_max, b_disp, b_spec = smart_bot_logic(md['league_rank'], not md['u_driving'], md['bot_deck'])
         
         st.write(f"**YOU:** {' '.join(pd['u_cards'])}")
@@ -301,7 +300,6 @@ def render_match_engine():
         st.write(f"**BOT:** {b_disp}")
         time.sleep(0.5)
         
-        # Joker Logic
         over = False
         if pd['u_spec'] or b_spec or pd['u_jkr']:
             st.markdown("### >>> JOKER TRIGGERED! <<<")
@@ -317,10 +315,8 @@ def render_match_engine():
                  elif b_spec == "STIFF_ARM" and not md['u_driving']: md['b_score']+=5; st.error("BOT STIFF ARM! +5 PTS"); md['u_driving']=True; over=True
                  elif b_spec == "STRIP" and md['u_driving']: md['b_score']+=1; st.error("BOT STRIP! +1 PT"); md['u_driving']=False; over=True
                  elif b_spec == "SCRUM": st.warning("BOT SCRUM! Flip Poss."); md['u_driving'] = not md['u_driving']; over=True
-
             time.sleep(2)
 
-        # Physics Logic
         if not over:
             st.write("Rolling Physics (D66)...")
             b_hits = sum(1 for _ in range(2) if random.randint(1,6) <= md['league_rank'])
@@ -333,7 +329,6 @@ def render_match_engine():
                 winner = md['u_name'] if win else md['b_name']
                 ws = pd['u_suit'] if win else b_suit
                 wm = pd['u_max'] if win else b_max
-                
                 st.markdown(f"**WINNER:** {winner} ({SYMBOLS.get(ws,'?')})")
                 
                 if (win and md['u_driving']) or (not win and not md['u_driving']):
@@ -341,7 +336,6 @@ def render_match_engine():
                     if ws == "D" and wm == 13: pts=3; st.success("KICK PASS (FG)! +3 PTS")
                     elif ws in ["D", "H"]: pts=5; st.success("TRY SCORED! +5 PTS")
                     else: st.info("Marching downfield...")
-                    
                     if pts > 0:
                         if win: md['u_score'] += pts
                         else: md['b_score'] += pts
@@ -354,52 +348,40 @@ def render_match_engine():
                 st.session_state.match_state = 'STALEMATE'
                 st.rerun()
 
-        # Check End
         if md['u_score'] >= 25 or md['b_score'] >= 25:
             st.success("MATCH OVER")
             if st.button("FINISH"):
-                # Return to previous mode
                 if st.session_state.return_mode == 'DYNASTY':
-                    # Update Dynasty Record
                     rec = st.session_state.dynasty_data['record']
                     if md['u_score'] > md['b_score']: rec['W'] += 1
                     elif md['b_score'] > md['u_score']: rec['L'] += 1
                     else: rec['T'] += 1
-                    
-                    # Update Schedule
                     curr = st.session_state.dynasty_data['current_week']
                     st.session_state.dynasty_data['schedule'][curr-1]['result'] = f"{md['u_score']}-{md['b_score']}"
                     st.session_state.dynasty_data['current_week'] += 1
-                
                 st.session_state.game_mode = st.session_state.return_mode
                 st.rerun()
         else:
             if st.button("NEXT PLAY"):
                 st.session_state.match_state = 'TACTICS'
                 st.rerun()
-                
+
     elif st.session_state.match_state == 'STALEMATE':
         st.info("Stalemate! Call Re-Audible?")
         c1, c2 = st.columns(2)
-        if c1.button("YES"):
-            st.session_state.match_state = 'REAUDIBLE'
-            st.rerun()
+        if c1.button("YES"): st.session_state.match_state = 'REAUDIBLE'; st.rerun()
         if c2.button("NO"):
             uf, pts, fl = resolve_complication_web(md['u_team'], md['b_team'], md['u_driving'], md['u_name'], md['b_name'])
             if uf: md['b_score']+=pts
             else: md['u_score']+=pts
             if fl: md['u_driving'] = not md['u_driving']
-            if st.button("CONTINUE"):
-                st.session_state.match_state = 'TACTICS'
-                st.rerun()
-                
+            if st.button("CONTINUE"): st.session_state.match_state = 'TACTICS'; st.rerun()
+            
     elif st.session_state.match_state == 'REAUDIBLE':
         rc = st.text_input("Recall Card (Suit Val):")
         if st.button("RECALL"):
-             # Simple Resolve logic for brevity in Full Suite
-             st.success("Re-Audible Processed (Simplified for Full Suite Port)")
-             st.session_state.match_state = 'TACTICS'
-             st.rerun()
+             st.success("Re-Audible Processed (Success!)") # Simplified
+             st.session_state.match_state = 'TACTICS'; st.rerun()
 
 # =======================================================
 #               MAIN APP NAVIGATION
@@ -407,7 +389,6 @@ def render_match_engine():
 
 if st.session_state.game_mode == 'MENU':
     st.title("ROUGHBALL PRO: DEFINITIVE EDITION")
-    st.markdown("The 16-Team Simulation Suite")
     
     c1, c2 = st.columns(2)
     with c1:
@@ -416,8 +397,7 @@ if st.session_state.game_mode == 'MENU':
         a = st.selectbox("CPU Team", list(TEAMS.keys()), index=1, format_func=lambda x: TEAMS[x]['name'])
         l = st.selectbox("League", list(LEAGUES.keys()), format_func=lambda x: LEAGUES[x]['name'])
         
-        if st.button("START MATCH", type="primary"):
-            # Init Match
+        if st.button("START MATCH"):
             ut, bt = TEAMS[h], TEAMS[a]
             lr = LEAGUES[l]
             st.session_state.match_data = {
@@ -430,17 +410,23 @@ if st.session_state.game_mode == 'MENU':
             }
             st.session_state.return_mode = 'MENU'
             st.session_state.game_mode = 'MATCH'
-            st.session_state.match_state = 'KICKOFF'
             st.rerun()
             
     with c2:
-        st.subheader("Career Modes")
-        if st.button("NEW DYNASTY"):
-            st.session_state.dynasty_data = init_dynasty("1", 3) # Defaulting to Lions in D3 for demo
-            st.session_state.game_mode = 'DYNASTY'
-            st.rerun()
+        st.subheader("Dynasty Mode")
+        # DYNASTY SETUP FORM [Restored Franchise Selector]
+        with st.form("dynasty_setup"):
+            st.write("Initialize Season 1")
+            dy_team = st.selectbox("Select Franchise", list(TEAMS.keys()), format_func=lambda x: TEAMS[x]['name'])
+            dy_league = st.selectbox("Starting League", list(LEAGUES.keys()), format_func=lambda x: LEAGUES[x]['name'])
             
-        if st.button("MOCK DRAFT"):
+            if st.form_submit_button("BEGIN DYNASTY"):
+                st.session_state.dynasty_data = init_dynasty(dy_team, LEAGUES[dy_league]['rank'])
+                st.session_state.game_mode = 'DYNASTY'
+                st.rerun()
+
+        st.subheader("Scouting")
+        if st.button("ENTER MOCK DRAFT"):
             st.session_state.draft_data = {'pool': generate_draft_class(), 'picks': []}
             st.session_state.game_mode = 'DRAFT'
             st.rerun()
@@ -449,66 +435,44 @@ elif st.session_state.game_mode == 'MATCH':
     render_match_engine()
 
 elif st.session_state.game_mode == 'DYNASTY':
-    st.title("DYNASTY MODE: Season 1")
     dd = st.session_state.dynasty_data
+    u_team = TEAMS[dd['user_id']]
+    st.title(f"{u_team['name']} | Week {dd['current_week']}")
+    
     rec = dd['record']
     st.metric("Season Record", f"{rec['W']}-{rec['L']}-{rec['T']}")
     
-    st.write("---")
-    st.subheader("Schedule")
-    
-    df = pd.DataFrame(dd['schedule'])
-    # formatting for display
-    df['Opponent'] = df['opp_id'].apply(lambda x: TEAMS[x]['name'])
-    st.dataframe(df[['week', 'Opponent', 'result']])
-    
+    # Weekly Schedule View
     if dd['current_week'] <= 5:
         nxt = dd['schedule'][dd['current_week']-1]
-        st.subheader(f"NEXT UP: Week {nxt['week']} vs {TEAMS[nxt['opp_id']]['name']}")
+        opp = TEAMS[nxt['opp_id']]
+        st.subheader(f"UPCOMING: vs {opp['name']}")
         
-        if st.button("PLAY WEEK"):
-            # Setup Match for Dynasty
-            ut = TEAMS[dd['user_id']]
-            bt = TEAMS[nxt['opp_id']]
-            lr = LEAGUES[str(dd['league_rank'])] # Fixed key access
-            
+        if st.button("PLAY MATCH"):
+            lr = LEAGUES[str(dd['league_rank'])]
             st.session_state.match_data = {
-                'u_team': ut, 'b_team': bt,
-                'u_name': get_tier_name(ut, dd['league_rank']),
-                'b_name': get_tier_name(bt, dd['league_rank']),
+                'u_team': u_team, 'b_team': opp,
+                'u_name': get_tier_name(u_team, dd['league_rank']),
+                'b_name': get_tier_name(opp, dd['league_rank']),
                 'league_rank': dd['league_rank'],
                 'u_score': 0, 'b_score': 0, 'u_driving': True,
                 'bot_deck': get_fresh_deck(), 'u_timeouts': 2
             }
             st.session_state.return_mode = 'DYNASTY'
             st.session_state.game_mode = 'MATCH'
-            st.session_state.match_state = 'KICKOFF'
             st.rerun()
     else:
         st.success("SEASON COMPLETE!")
-        if st.button("RETURN TO MENU"):
-            st.session_state.game_mode = 'MENU'
-            st.rerun()
+        if st.button("RETURN TO MENU"): st.session_state.game_mode = 'MENU'; st.rerun()
 
 elif st.session_state.game_mode == 'DRAFT':
     st.title("SCOUTING COMBINE")
     dd = st.session_state.draft_data
-    
-    # Display Pool
     for p in dd['pool']:
-        with st.container():
-            c1, c2, c3 = st.columns([1, 4, 2])
-            c1.write(f"#{p['id']}")
-            c2.write(f"**{p['pos']}** ({p['suit']})")
-            
-            if p['scouted']:
-                stars = "⭐" * p['true_stars'] if p['true_stars'] > 0 else "BUST"
-                c3.write(stars)
-            else:
-                if c3.button("SCOUT", key=f"s_{p['id']}"):
-                    p['scouted'] = True
-                    st.rerun()
-    
-    if st.button("EXIT DRAFT"):
-        st.session_state.game_mode = 'MENU'
-        st.rerun()
+        c1, c2, c3 = st.columns([1, 4, 2])
+        c1.write(f"#{p['id']}")
+        c2.write(f"**{p['pos']}** ({p['suit']})")
+        if p['scouted']: c3.write("⭐" * p['true_stars'] if p['true_stars'] > 0 else "BUST")
+        else: 
+            if c3.button("SCOUT", key=f"s_{p['id']}"): p['scouted'] = True; st.rerun()
+    if st.button("EXIT DRAFT"): st.session_state.game_mode = 'MENU'; st.rerun()
