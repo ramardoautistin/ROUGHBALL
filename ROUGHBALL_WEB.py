@@ -469,29 +469,34 @@ elif st.session_state.game_mode == 'DRAFT':
     st.title("MOCK DRAFT: CLASS OF '26")
     st.markdown("### SCOUTING MANAGER & LEAGUE SIMULATION")
     
-    # "Run Simulation" Button (The Trigger)
+    # "Run Simulation" Button
     if st.button("RUN MOCK DRAFT SIMULATION", type="primary"):
         st.session_state.draft_results = []
         
-        # 1. ESTABLISH DRAFT ORDER (Reverse of default ID for demo, or random)
+        # 1. ESTABLISH DRAFT ORDER (Randomized for Mock)
         draft_order = list(TEAMS.keys())
         random.shuffle(draft_order)
         
-        # 2. GENERATE PICKS FOR EVERY TEAM
+        # 2. GENERATE PICKS
         for rank, t_id in enumerate(draft_order):
             team_name = TEAMS[t_id]['name']
             
-            # Generate 3 Rounds of Picks per Team (As per your loop)
+            # RULE: Top 4 Teams (Rank 0-3) get 2 Picks. Everyone else gets 4.
+            if rank < 4: 
+                num_picks = 2
+                status = "TOP 4 (PENALTY)"
+            else: 
+                num_picks = 4
+                status = "STANDARD"
+            
             team_picks = []
-            for _ in range(3):
-                # ROUGHBALL GENERATION LOGIC
+            for _ in range(num_picks):
+                # ROUGHBALL FLAVOR GENERATION
                 s_key = random.choice(list(SYMBOLS.keys())[:-1]) # No JKR
                 suit_icon = SYMBOLS[s_key]
-                
                 pos = random.choice(['QB', 'RB', 'WR', 'TE', 'OL', 'DL', 'LB', 'CB', 'S', 'K'])
                 
-                # Star Rating Math (Weighted)
-                # 10% Chance of 5-Star, 20% 4-Star, etc.
+                # Weighted Star Rating
                 roll = random.randint(1, 100)
                 if roll > 95: stars = 5
                 elif roll > 80: stars = 4
@@ -499,41 +504,44 @@ elif st.session_state.game_mode == 'DRAFT':
                 elif roll > 20: stars = 2
                 else: stars = 1
                 
-                # 5% Chance of Total Bust (0 Stars)
+                # Bust Chance
                 if random.randint(1, 20) == 1: stars = 0
                 
                 star_str = "★" * stars if stars > 0 else "BUST"
-                
-                # THE FLAVOR STRING: "♥ QB(★★★)"
-                pick_str = f"{suit_icon} {pos}({star_str})"
-                team_picks.append(pick_str)
+                team_picks.append(f"{suit_icon} {pos}({star_str})")
+            
+            # Fill empty slots for Top 4 so the table aligns
+            while len(team_picks) < 4:
+                team_picks.append("---")
             
             st.session_state.draft_results.append({
                 'Rank': rank + 1,
                 'Team': team_name,
+                'Status': status,
                 'R1': team_picks[0],
                 'R2': team_picks[1],
-                'R3': team_picks[2]
+                'R3': team_picks[2],
+                'R4': team_picks[3]
             })
 
-    # DISPLAY THE BOARD (If simulation ran)
+    # DISPLAY BOARD
     if 'draft_results' in st.session_state and st.session_state.draft_results:
-        # We use a dataframe for that clean "Terminal Table" look on Web
         df = pd.DataFrame(st.session_state.draft_results)
         st.dataframe(
             df, 
             column_config={
-                "Rank": st.column_config.NumberColumn(format="%d"),
+                "Rank": st.column_config.NumberColumn(format="%d", width="small"),
                 "Team": st.column_config.TextColumn(width="medium"),
-                "R1": st.column_config.TextColumn(width="large"),
-                "R2": st.column_config.TextColumn(width="large"),
-                "R3": st.column_config.TextColumn(width="large"),
+                "Status": st.column_config.TextColumn(width="small"),
+                "R1": st.column_config.TextColumn(width="medium"),
+                "R2": st.column_config.TextColumn(width="medium"),
+                "R3": st.column_config.TextColumn(width="medium"),
+                "R4": st.column_config.TextColumn(width="medium"),
             },
             hide_index=True,
             use_container_width=True
         )
-        
-        st.caption("Key: ★ = Talent Rating | BUST = 0 Stars | Suit indicates primary attribute bias.")
+        st.caption("Draft Rules: Standard teams receive 4 picks. Top 4 seeded teams are penalized to 2 picks.")
 
     st.write("---")
     if st.button("RETURN TO MENU"):
