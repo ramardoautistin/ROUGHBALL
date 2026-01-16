@@ -24,11 +24,11 @@ ID  | SUIT | POS | PLAYER NAME / CALLSIGN      | JERSEY # | STAR QUAL (0-5)
 07  |      |     |                             | [ #    ] | ( ) ( ) ( ) ( ) ( )
 08  |      |     |                             | [ #    ] | ( ) ( ) ( ) ( ) ( )
 --------------------------------------------------------------------------------
-[ SECTION 2: THE BOOTCAMP SCHEDULE (YEAR 3) ]
+[ SECTION 2: THE BOOTCAMP SCHEDULE (YEAR 3) ] *MODIFIERS affected thru all cup!
 --------------------------------------------------------------------------------
 [W1-W3] -> POSITIONAL WARMUPS (STAT BONUS: +d4-1)
 
-> FOCUS POSITION: _ _ _ _ _ _ | +[  ] (STA/SPD/KCK/CAT) BONUS!
+> FOCUS POSITION: _ _ _ _ _ _ | +[  ] (TKL/AWR/INT/PAS) BONUS!
 [W4-W6] ->  PLAYBOOK DESIGN (Craft 6 Signature Plays)
 
 > STRATEGIC FOCUS DURING TOURNAMENT: _ _ _ _ _ _ 
@@ -37,7 +37,7 @@ ID  | SUIT | POS | PLAYER NAME / CALLSIGN      | JERSEY # | STAR QUAL (0-5)
 > FOCUS DRILLS: _ _ _ _ _ _  | +[  ] (STA/SPD/KCK/CAT) BONUS!
 [W10-W12] -> MEDIA EXPECTANCY (STAT PENALTY: -d4-1)
 
-> CURSED SUIT:  _ _ _ _ _ _  | -[  ] (STA/SPD/KCK/CAT) PENALTY! (throughout cup!)
+> CURSED SUIT:  _ _ _ _ _ _  | -[  ] (TKL+STA/AWR+SPD/INT+KCK/PAS+CAT) PENALTY!
 --------------------------------------------------------------------------------
 [ SECTION 3: THE TOURNAMENT FIXTURES (YEAR 4) ]
 --------------------------------------------------------------------------------
