@@ -257,17 +257,17 @@ PIRATES/SURGERS    Raiders/Chargers      Bandits/Volts          Outlaws/Hurrican
 ================================================================================================
 
 # HISTORICAL RANKINGS PER FRANCHISE/ERA
-+----------+--------------+----------------+-----------------+---------------+----------------+
-|ERA       | #1 CHAMPIONS | #2 RUNNER UP   | #3 WILDCARD     | #4 REVELATION | DISGRACEFUL!   |
-+----------+--------------+----------------+-----------------+---------------+----------------+
-|OLD TIMEY | Patriots 🏙️🏳️| Bears 🧭🐻     | Vikings 🛶👑    | Lions 🏔️🦁    | SAINTS ⛰️⚜️    |
-+----------+--------------+----------------+-----------------+---------------+----------------+
-|GOLDEN AGE| Pirates 🏖️🏴‍☠️ | Panthers 🏔️    | Eagles 🧭🦅     | Farmers 🚜👨‍🌾  |SCORPIONS 🦂🏜 |
-+----------+--------------+----------------+-----------------+---------------+----------------+
-|MILLENIUM | Saints ⛰️⚜️  | Seahawks 🌊🦅  | Scorpions 🦂🏜️  |Stallions 🐎🌾 | BEARS 🧭🐻     |
-+----------+--------------+----------------+-----------------+---------------+----------------+
-|PANDEMICAL| Lions 🏔️🦁   | Surge 🌊⚡     | Royals 👑🏙️     |Sharks 🌊🦈    | STINGRAYS 🌊🐋 |
-+----------+--------------+----------------+-----------------+---------------+----------------+
++----------+---------------+----------------+-----------------+-----------------+-----------------+
+|ERA       | #1 CHAMPIONS  | #2 RUNNER UP   | #3 WILDCARD     | #4 REVELATION   | DISGRACEFUL!    |
++----------+---------------+----------------+-----------------+-----------------+-----------------+
+|OLD TIMEY | Patriots 🏙️🏳️| Bears 🧭🐻    | Vikings 🛶👑   | Lions 🏔️🦁     | SAINTS ⛰️⚜️    |
++----------+---------------+----------------+-----------------+-----------------+-----------------+
+|GOLDEN AGE| Pirates 🏖️🏴‍☠️ | Panthers 🏔️    | Eagles 🧭🦅    | Farmers 🚜👨‍🌾   |SCORPIONS 🦂🏜  |
++----------+-------------- +----------------+-----------------+-----------------+-----------------+
+|MILLENIUM | Saints ⛰️⚜️  | Seahawks 🌊🦅 | Scorpions 🦂🏜️ | Stallions 🐎🌾 | BEARS 🧭🐻     |
++----------+---------------+----------------+-----------------+-----------------+-----------------+
+|PANDEMICAL| Lions 🏔️🦁   | Surge 🌊⚡    | Royals 👑🏙️    | Sharks 🌊🦈    | STINGRAYS 🌊🐋 |
++----------+---------------+----------------+-----------------+-----------------+-----------------+
 
 # FOUR NATIONS TOURNAMENT - ROUGHBALL WORLD CUP (IRBWC)
 > INTERNATIONAL ROUGHBALL WORLD CUP events are held every 4 years (has to be a gap year!), where
@@ -297,5 +297,6 @@ PIRATES/SURGERS    Raiders/Chargers      Bandits/Volts          Outlaws/Hurrican
 [YEAR 2] -> HEMISPHERIAL BRACKETS set up for the qualifying 16 clubs, proceeding to K.O. ELIMINATION!
 
 * WINNER = TAKES CROWN / LOSING HEMISPHERE = HOSTS NEXT CUP!
+
 
 
