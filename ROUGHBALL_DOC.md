@@ -1,17 +1,18 @@
-[ROUGHBALL SIMULATION SYSTEM - v3.0]
-### 1. PLAYCALLING & MOVEMENT MATRIX
+[[ NATIONAL ROUGHBALL LEAGUE - COMPLETE MANAGEMENT SIMULATION SYSTEM ]]
+### 1. PREMISE AND MECHANICAL FEATURES
 > ROUGHBALL is a proto-ball game combining techniques and mechanics from
 both its Rugby and American Football counterparts, while fixing "flow" 
 issues present in both games, such as: the ban on the "forward pass"
 established in rugby, the lack of "free punting" the ball in football,
 plus the entire "yardage" and "downs" system which makes the games 
 harder to watch. however, both sports contain fascinating rulings as well:
-the playcalling and general strategy implied in american football, the 
-basis for our ROUGHBALL simplified formation system, as well as our 
-ZONE/RUN/BLITZ/PASS system which enhances the familiarity. brought from
-rugby: the side pass, live ball & kicking mechanics, scrum and general 
+the playcalling and general strategy implied in american football (serving
+as the basis for our ROUGHBALL simplified formation system) as well as our 
+ZONE/RUN/BLITZ/PASS system which enhances the familiarity of play. brought 
+from rugby: the side pass, live ball & kicking mechanics, scrum and general 
 constant scrimmages, PROPER tackling techniques, and field goal penalties 
-granted for unsportsmanlike conducts between teams! 
+granted for unsportsmanlike conducts between teams!
+
 * ROUGHBALL effectively bridges the gap between strategically calling routes
 or covers based upon the requirements of the current field, but focusing instead 
 on live ball mechanics & perpetual possession "flippages" ensued during the match!
@@ -47,7 +48,7 @@ H | CB   .   .   .   SG   .   .   LB |
 +-------------------+-----------+--------------+------------------------------+
 | ♢ DIAMONDS (PASS) | PAS       | CAT          | (WB) wide back (SG) safety   |
 | (Air Raiders)     | (passing) | (catching)   | (TB) tight back      guard   |
-+-------------------+---------+-----+-------+---------------------------------+
++-------------------+-----------+--------------+------------------------------+
 
 ## SPECIAL MOVES & SIGNATURE PLAYBOOK (JKR ENFORCEMENT)
 +----------+------------------+------------------------------------------+
@@ -55,14 +56,14 @@ H | CB   .   .   .   SG   .   .   LB |
 +----------+------------------+------------------------------------------+
 | Clubs    | Ruck	          | Scrimmage. Immediately play goes stale.  |
 | Hearts   | Stiff Arm        | Force Move. Advance regardless of clash. |
-| Spades   | Punt             | Ball strip becomes defensive punting!    |
+| Spades   | Punt             | Ball strip becomes offensive punting!    |
 | Diamonds | Juke Step        | Perfect Ankle Breaker. Reached Endzone!  |
 +----------+------------------+------------------------------------------+
 
 * PLAYS driven can be STORED into a team's PLAYBOOOK, the # of plays determined by current rank.
 - Allows coaches to callout SIGNATURE PLAYS on any JKR drawn (engaging a SLOT #, without further cards).
 
-### 2. THE PLAY CYCLE & POSSESSION
+### 2. PLAY CYCLE & POSSESSION
 * PHASE I: THE AUDIBLE
   - Players reveal their plays simultaneously.
   - Formation: Set based on suit and current position (Neutral/Offense/Defense)
@@ -75,13 +76,14 @@ H | CB   .   .   .   SG   .   .   LB |
     - IV. College Superstars: 1-4 Succes Window | 4 Floor STAT + 4 SP (D2 Prospect)
     - V. National Legends:   1-5 Success Window  | 5 Floor STAT + 5 SP (D1 Prospect)
    * Skill Points are added during the PRE-SEASON, following division promotions.
+   * Leagues like the IRBL focus on a HIT/MISS system reliant on EVEN/ODD calculations.
 * PHASE III: RESOLUTION
   - Clean Win: Highest hits wins. Play advancement or conversion.
   - The Stale: Hits match. Proceed to "THE BREAKER".
   - Dual-Split: Both roll [1 Hit / 1 Miss]. Trigger D4 Complication!
-  - Fumble (XX): Both roll [0 Hits]. Ball is live! AWR/INT SAVING THROW.
+  - Fumble (XX): Both roll [0 Hits]. Ball is live! RE-AUDIBLE!.
 
-### 3. THE BREAKER (STAT-MATCH SCRAMBLE)
+### 3. THE BREAKER (STAT-BASED STALEMATE SCRAMBLER)
 * Rule: Only add card values if primary stats are equal.
   1. Compare Primary Stats: Higher stat wins the tie-breaker.
   2. Card Value Addition (If stats are equal): [Primary Stat] + [Card Value].
@@ -92,14 +94,14 @@ H | CB   .   .   .   SG   .   .   LB |
      - A: 14 (Spread Form)
      - JKR: 15 (SPECIAL MOVES TABLE! when combined with specific SUIT.)
   3. Final Saving Throw: If still tied, compare Saving Throw rolls + outcome.
-- STILL TIED? Draw a new RE-AUDIBLE PLAY for a clean tie-breaker!
+- SOMEHOW STILL TIED? Draw a new RE-AUDIBLE PLAY for a clean tie-breaker!
 
-### 4. D4 COMPLICATIONS (THE DUAL-SPLIT)
-* Logic: Lower Saving Throw STAT results in being the offender/offendee.
-  - [1] SACK (Check SPD): Instant loss of possession + 2 points for opponent.
-  - [2] OUT OF BOUNDS (Check CAT): Reset play to Neutral.
+### 4. D4 COMPLICATIONS (DUAL-SPLIT MISS TABLE)
+* Logic: Lower Saving Throw ROLL (BASE ST + ROLL d6) results in being offender/offendee.
+  - [1] SACK (Check SPD): Instant posession FLIP + 2 pts for "sacker".
+  - [2] OUT OF BOUNDS (Check CAT): Reset play to NEUTRAL.
   - [3] PENALTY (Check STA): Personal Foul triggers Field Goal: +3pt.
-  - [4] INTERCEPTION (Check KCK): Instant possession flip for live play: + 1pt.
+  - [4] INTERCEPTION (Check KCK): Instant possession FLIP for live play + 1pt.
 
 ### 5. ROUTE & COVER REFERENCE (#2-10)
 +-------+------------------+------------------+
@@ -112,14 +114,14 @@ H | CB   .   .   .   SG   .   .   LB |
 | 6     | Slant            | Dime             |
 | 7     | Swing            | Quarter          |
 | 8     | Stick            | Stacks           |
-| 9     | Long             | Slants           |
+| 9     | Long             | Slot             |
 | 10    | Handoff          | Man 2 Man        |
 +-------+------------------+------------------+
 
 [ J = FEINT PLAY | Q = SIDE PASS | K = KICK PASS | A = SPREAD FORM | JKR = SPECIAL! ]
 [ (T FORMATION)  | (Y FORMATION) | (V FORMATION) | > CALL SIGNATURE PLAYS OR MOVES  ]
 
-### 6. FRANCHISES & DINASTIES (12 WEEK "YEAR" SEASONS, 7 DAY WEEKLY SCHEDULE)
+### 6. NRBL WEEKLY SCHEDULE & MANAGEMENT
 > WEEKLY ACTIVITIES: serve as roleplaying events and general structure for a team:
 
 [MEDIA monday|TRAINING tuesday|STUDY wednesday|BY thursday|HS friday|CL saturday|NL sunday]
@@ -127,8 +129,10 @@ H | CB   .   .   .   SG   .   .   LB |
 1. MEDIA MONDAY TABLE: 1. Press Conference / 2. Radio Interview / 3. Live Show / 4. News Article
 - Weekly, an event triggers a d4-1 PENALTY on any given STAT: (1. TKL | 2. AWR | 3. INT | 4. PAS)
 
-2. TRAINING TUESDAY DRILLS: ♣: Rush Tackle / ♡: Box Snaps / ♠: Pursuit Tackle / ♢: Shuffle Catch
-- Weekly, select a different drill to work on: adding a temporary d4-1 BONUS to selected STAT! (+0-3)
+2. TRAINING TUESDAY DRILLS: 
+BASE STATS -> ♣: Rush Tackle / ♡: Box Snaps / ♠: Pursuit Tackle / ♢: Shuffle Catch
+SAVING THROWS -> ♣: Scrum Locks / ♡: Carrier Sprints / ♠: Post Kicking / ♢: Contested Catching
+- Weekly, select a different drill to work on: adding temporary d4-1 BONUS to selected STAT or ST! (+0-3)
 
 3. STUDY WEDNESDAY TABLE: 1. Blackboard Lecture / 2. Film Review / 3. Play Calling / 4. Rivalry Simulation
 - Weekly, studying provides a d4-1 BONUS on any given SAVING THROW: (1. STA | 2. SPD | 3. KCK | 4. CAT)
@@ -141,11 +145,7 @@ H | CB   .   .   .   SG   .   .   LB |
 
 7. NATIONAL SUNDAY: engage in D-1 "National Legend" matches between regional blood-rivals!
 
-> SEASON SCHEDULE
-* Draft Day allows GM to fill up 4 ROSTER SPOTS (1 per suit) w/ 4 CARD PICKS + d6-1 STARS!
-- Star Quality grants temporary +X STAT for SUIT during seasons (& trades always possible!)
-- 8 Roster Spots are present: INCOMING (4 draft, 4 promos) OUTGOING (4 promoted, 4 retired)
-
+##  NRBL SEASONAL SCHEDULE
 [W1 - W2 - W3] ---> [W4 - W5 - W6] ---> [W7 - W8 - W9] ---> [W10 - W11 - W12]
 [ PRE-SEASON	        REGULAR SEASON	      PLAYOFF SEASON	   OFF-SEASON ]
 - studies + drilling  - 2 games per week     - 1 game per week    - draft day
@@ -158,6 +158,40 @@ H | CB   .   .   .   SG   .   .   LB |
 
 * ROOKIES -> UNRANKED: "free agents" that can become draft picks. (X SEASONS = +1 RANK)
 
+## THE DRAFT
+* DRAFT DAY allows a GM to fill up 4 ROSTER SPOTS (1 per suit) w/ 4 CARD PICKS + d6-1 STARS!
+- STAR QUALITY grants temporary +X STAT for SUIT during seasons (& trades always possible!)
+- 8 ROSTER SPOTS are present: INCOMING (4 draft, 4 promos) OUTGOING (4 promoted, 4 retired)
+* FULL TEAM DRAFT available for brand new franchises or assembling international tournament rosters!
+
+> Draw 8 cards to determine each position throughout the roster, according to the following table:
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx > NEUTRAL POSITIONAL ROSTER PER SUIT:
+A |  .   .   .   DT  .   DE   .   .  |     [ SUITS | TOP | BOTTOM | CORNER ]
+B |  .   .   OG  .   OT   .   .   .  |      CLUBS:   (DT) / (DE) / (LB)
+C |  .   .   .   QG   .   .   .   .  |      HEARTS:  (QG) / (RG) / (SG)
+D | WB   .   .   .   RG   .   .   TB |      SPADES:  (OG) / (OT) / (CB)
+  |----------------------------------|      DIAMONDS: (WB) / (TB) / (SG)
+
+* NUMBERS 2-10 = BOTTOM position player based on suit.
+* FACE = TOP position player based on suit.
+* JKR = CORNER position player based on suit + number / otherwise... SPECIAL PLAYER PULL!
+- JKR PULLS trigger 2nd card pull, determining position for drafted player (corner or dual threat).
+
+> "ONE LAST RIDE" is a veterancy contract offered as a "retirement delay" to vets w/ 5+ seasons...
+* Allows player to become DUAL THREAT or double position player, based on cards pulled after JKR:
+* (any "normal" card numbers after a joker simply determine the corner position player for a suit)
+
+> DUAL POSITION VETERAN ARCHETYPES:
+1. PITCH GENERAL (♠ + ♡): kicking + playcalling -> JKR + JESTER (ANY)  
+2. WING BACKER (♣ + ♢): scrimmage + reception -> JKR + RED QUEEN
+3. FIELD RAIDER (♡ + ♢): handoffs + routes -> JKR + RED ACE
+4. SCRUM GUARD (♣ + ♠) : rucking + punting -> JKR + BLACK ACE
+5. AIR PITCHER (♢ + ♠): catching + goaling -> JKR + KING (ANY)
+6. TACKLE CARRIER (♣ + ♡): scrum + ball protection -> JKR + BLACK QUEEN
+* BONUS: [JKR + JKR = pick any DUAL THREAT VETERAN position available!]
+
+## NRBL DIVISIONAL TEAMS AND FRANCHISES (FOUNDING / EXPANSION)
 [National Legends | College Superstars | High School Pros | Backyard Amateurs | Unranked Rookies]
 
 (D1: PRO-LEAGUE)   (D2: COLLEGE)         (D3: HIGH SCHOOL L.)   (D4: BACKYARD LEAGUE)
@@ -178,7 +212,7 @@ BEARS/SCORPIONS    Bruins/Spiders        Grizzlies/Stingers     Cubs/Snakes
 
 PIRATES/SURGERS    Raiders/Chargers      Bandits/Volts          Outlaws/Hurricanes
 
-# BONUS SECTION: NATIONAL PRO-LEAGUE FRANCHISES (FOUNDING VS. EXPANSIONS)
+# BONUS SECTION: NRBL STATS FOR PRO-LEAGUE FRANCHISES
 * NORTH CONFERENCE: 
     - Mountain LIONS 🏔️🦁    (♣: 8 ♡: 4 ♠: 7 ♢: 6) [Mountain Rugged]
     - Greenland VIKINGS 🛶👑 (♣: 6 ♡: 7 ♠: 8 ♢: 4) [Land Raiders]
@@ -235,6 +269,32 @@ PIRATES/SURGERS    Raiders/Chargers      Bandits/Volts          Outlaws/Hurrican
 |PANDEMICAL| Lions 🏔️🦁   | Surge 🌊⚡     | Royals 👑🏙️     |Sharks 🌊🦈    | STINGRAYS 🌊🐋 |
 +----------+--------------+----------------+-----------------+---------------+----------------+
 
+# FOUR NATIONS TOURNAMENT - ROUGHBALL WORLD CUP (IRBWC)
+> INTERNATIONAL ROUGHBALL WORLD CUP events are held every for years (has to be a gap year!),
+4 GLOBAL NATIONS face each other in a bloody tournament to determine an actual RB WORLD CHAMP!
 
+       [UNITED SOUTH ♣] - [THE HEARTLAND ♡] - [PROMISED LAND ♠] - [NORDIC ELITE ♢]
+       (LEOPARDS)            (FALCONS)           (KANGAROOS)             (DRAGONS)
+(♣: 10 ♡: 8 ♠: 7 ♢: 5)|(♣: 6 ♡: 10 ♠: 6 ♢: 8)|(♣: 8 ♡: 7 ♠: 10 ♢: 5)|(♣: 6 ♡: 5 ♠: 9 ♢: 10)
 
+[YEAR 1] -> HOST NATION must be determined, based on previous 4th place international disgrace!
+[YEAR 2] -> ELITE ROSTER must be drafted, w/ 8 playing positions p/ team to fill their structure.
+[YEAR 3] -> BOOT CAMP season focus: roster depth, drills, playbook design + media expectation!
+[YEAR 4] -> TOURNAMENT YEAR takes place and follows a tight schedule:
+
+    [W1 - W2 - W3] ---> [W4 - W5 - W6] ---> [W7 - W8 - W9] ---> [W10 - W11 - W12]
+    [ PRE-SEASON	        REGULAR SEASON	      PLAYOFF SEASON	    OFF-SEASON ]
+    - civil wars            - tactical cross      - role reversal       - final blowout
+    * clubs vs. spades      * hearts vs. spades   * clubs vs. hearts    * winner vs. winner (CH/RU)
+    * hearts vs. diamonds   * diamonds vs. clubs  * spades vs. diamonds * loser vs. loser (WC/HOST)
+
+# GLOBAL NATIONS CLUB CROWN - OVERSEAS LEAGUE WIPEOUT (GNRBCL)
+> GLOBALIZED ROUGHBALL CLUB LEAGUES are present in virtually every region around globe! 
+* CARDINAL POINTS throughout every nation have locally-owned teams present and actively competing.
+- ONLY BEST 8 TEAMS from each nation can participate from the qualifier matches every two years!
+
+[YEAR 1] -> REGIONAL TOP-4 must be determined from each cardinal division (N, S, E, W) for a nation.
+[YEAR 2] -> HEMISPHERIAL BRACKETS set up for the qualifying 16 clubs, proceeding to K.O. ELIMINATION!
+
+* WINNER = TAKES CROWN / LOSING HEMISPHERE = HOSTS NEXT CUP!
 
