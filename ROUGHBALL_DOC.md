@@ -290,7 +290,6 @@ PIRATES/SURGERS    Raiders/Chargers      Bandits/Volts          Outlaws/Hurrican
 
 # GLOBAL NATIONS CLUB CROWN - OVERSEAS LEAGUE WIPEOUT (GNRBCL)
 > GLOBALIZED ROUGHBALL CLUB LEAGUES are present in virtually every region around globe!
- 
 * CARDINAL POINTS throughout every nation have locally-owned teams present and actively competing.
 - ONLY BEST 8 TEAMS from each nation can participate from the qualifier matches every two years!
 
