@@ -289,7 +289,8 @@ PIRATES/SURGERS    Raiders/Chargers      Bandits/Volts          Outlaws/Hurrican
     * hearts vs. diamonds   * diamonds vs. clubs  * spades vs. diamonds * loser vs. loser (WC/HOST)
 
 # GLOBAL NATIONS CLUB CROWN - OVERSEAS LEAGUE WIPEOUT (GNRBCL)
-> GLOBALIZED ROUGHBALL CLUB LEAGUES are present in virtually every region around globe! 
+> GLOBALIZED ROUGHBALL CLUB LEAGUES are present in virtually every region around globe!
+ 
 * CARDINAL POINTS throughout every nation have locally-owned teams present and actively competing.
 - ONLY BEST 8 TEAMS from each nation can participate from the qualifier matches every two years!
 
@@ -297,8 +298,3 @@ PIRATES/SURGERS    Raiders/Chargers      Bandits/Volts          Outlaws/Hurrican
 [YEAR 2] -> HEMISPHERIAL BRACKETS set up for the qualifying 16 clubs, proceeding to K.O. ELIMINATION!
 
 * WINNER = TAKES CROWN / LOSING HEMISPHERE = HOSTS NEXT CUP!
-
-
-
-
-
