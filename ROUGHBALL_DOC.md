@@ -270,7 +270,7 @@ PIRATES/SURGERS    Raiders/Chargers      Bandits/Volts          Outlaws/Hurrican
 +----------+--------------+----------------+-----------------+---------------+----------------+
 
 # FOUR NATIONS TOURNAMENT - ROUGHBALL WORLD CUP (IRBWC)
-> INTERNATIONAL ROUGHBALL WORLD CUP events are held every for years (has to be a gap year!),
+> INTERNATIONAL ROUGHBALL WORLD CUP events are held every 4 years (has to be a gap year!), where
 4 GLOBAL NATIONS face each other in a bloody tournament to determine an actual RB WORLD CHAMP!
 
        [UNITED SOUTH ♣] - [THE HEARTLAND ♡] - [PROMISED LAND ♠] - [NORDIC ELITE ♢]
@@ -297,4 +297,5 @@ PIRATES/SURGERS    Raiders/Chargers      Bandits/Volts          Outlaws/Hurrican
 [YEAR 2] -> HEMISPHERIAL BRACKETS set up for the qualifying 16 clubs, proceeding to K.O. ELIMINATION!
 
 * WINNER = TAKES CROWN / LOSING HEMISPHERE = HOSTS NEXT CUP!
+
 
