@@ -54,7 +54,7 @@ H | CB   .   .   .   SG   .   .   LB |
 +----------+------------------+------------------------------------------+
 | SUIT     | SPECIAL MOVE     | EFFECT                                   |
 +----------+------------------+------------------------------------------+
-| Clubs    | Ruck	          | Scrimmage. Immediately play goes stale.  |
+| Clubs    | Ruck             | Scrimmage. Immediately play goes stale.  |
 | Hearts   | Stiff Arm        | Force Move. Advance regardless of clash. |
 | Spades   | Punt             | Ball strip becomes offensive punting!    |
 | Diamonds | Juke Step        | Perfect Ankle Breaker. Reached Endzone!  |
@@ -297,6 +297,7 @@ PIRATES/SURGERS    Raiders/Chargers      Bandits/Volts          Outlaws/Hurrican
 [YEAR 2] -> HEMISPHERIAL BRACKETS set up for the qualifying 16 clubs, proceeding to K.O. ELIMINATION!
 
 * WINNER = TAKES CROWN / LOSING HEMISPHERE = HOSTS NEXT CUP!
+
 
 
 
