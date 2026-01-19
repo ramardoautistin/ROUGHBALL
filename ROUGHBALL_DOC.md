@@ -163,7 +163,6 @@ SAVING THROWS -> ♣: Scrum Locks / ♡: Carrier Sprints / ♠: Post Kicking / �
 - STAR QUALITY grants temporary +X STAT for SUIT during seasons (& trades always possible!)
 - 8 ROSTER SPOTS are present: INCOMING (4 draft, 4 promos) OUTGOING (4 promoted, 4 retired)
 * FULL TEAM DRAFT available for brand new franchises or assembling international tournament rosters!
-
 > Draw 8 cards to determine each position throughout the roster, according to the following table:
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx > NEUTRAL POSITIONAL ROSTER PER SUIT:
@@ -178,11 +177,12 @@ D | WB   .   .   .   RG   .   .   TB |      SPADES:  (OG) / (OT) / (CB)
 * JKR = CORNER position player based on suit + number / otherwise... SPECIAL PLAYER PULL!
 - JKR PULLS trigger 2nd card pull, determining position for drafted player (corner or dual threat).
 
-> "ONE LAST RIDE" is a veterancy contract offered as a "retirement delay" to vets w/ 5+ seasons...
-* Allows player to become DUAL THREAT or double position player, based on cards pulled after JKR:
-* (any "normal" card numbers after a joker simply determine the corner position player for a suit)
+> "ONE LAST RIDE" is a veterancy contract offered as a "retirement delay" to vets w/ over 9 seasons!
+* CONTRACTS grant STARS to roster players after completing the # of contractual seasons agreed.
+- [D4: 1 YEAR, 0 STARS | D3: 2 YEARS, +1 STAR | D2: 3 YEARS, +2 STARS, | D1: 4 YEARS, +3 STARS]
 
-> DUAL POSITION VETERAN ARCHETYPES:
+* Allows player to become DUAL THREAT or double position VETERAN due to accumulated training camps.
+> DUAL POSITION VETERAN ARCHETYPES (determined by drawn cards after earned JKR):
 1. PITCH GENERAL (♠ + ♡): kicking + playcalling -> JKR + JESTER (ANY)  
 2. WING BACKER (♣ + ♢): scrimmage + reception -> JKR + RED QUEEN
 3. FIELD RAIDER (♡ + ♢): handoffs + routes -> JKR + RED ACE
