@@ -160,8 +160,8 @@ SAVING THROWS -> ♣: Scrum Locks / ♡: Carrier Sprints / ♠: Post Kicking / �
 
 ## THE DRAFT
 * DRAFT DAY allows a GM to fill up 4 ROSTER SPOTS (1 per suit) w/ 4 CARD PICKS + d6-1 STARS!
-- STAR QUALITY grants temporary +X STAT for SUIT during seasons (& trades always possible!)
-- 8-MAN STARTER + 4-MAN BACKUP (4 ROSTER SPOTS available after 1st season: incoming & outgoing trades)
+- STAR QUALITY grants temporary (+☆-1) STAT BONUS for SUIT thru contract! (trades always possible...)
+- 8-MAN STARTER/4-MAN BACKUP (4 ROSTER SPOTS available after 1st season: INCOMING & OUTGOING trades)
 * FULL TEAM DRAFT available for brand new franchises or assembling international tournament rosters!
 > Draw 8 cards to determine each position throughout the roster, according to the following table:
 
@@ -297,3 +297,4 @@ PIRATES/SURGERS    Raiders/Chargers      Bandits/Volts          Outlaws/Hurrican
 [YEAR 2] -> HEMISPHERIAL BRACKETS set up for the qualifying 16 clubs, proceeding to K.O. ELIMINATION!
 
 * WINNER = TAKES CROWN / LOSING HEMISPHERE = HOSTS NEXT CUP!
+
