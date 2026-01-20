@@ -185,7 +185,7 @@ D | WB   .   .   .   RG   .   .   TB |      SPADES:  (OG) / (OT) / (CB)
 > DUAL POSITION VETERAN ARCHETYPES (determined by drawn cards after earned JKR):
 1. PITCH GENERAL (♠ + ♡): kicking + playcalling -> JKR + JESTER (ANY)  
 2. WING BACKER (♣ + ♢): scrimmage + reception -> JKR + RED QUEEN
-3. FIELD RAIDER (♡ + ♢): handoffs + routes -> JKR + RED ACE
+3. FIELD RAIDER (♡ + ♢): handovers + routes -> JKR + RED ACE
 4. SCRUM GUARD (♣ + ♠) : rucking + punting -> JKR + BLACK ACE
 5. AIR PITCHER (♢ + ♠): catching + goaling -> JKR + KING (ANY)
 6. TACKLE CARRIER (♣ + ♡): scrum + ball protection -> JKR + BLACK QUEEN
@@ -297,4 +297,5 @@ PIRATES/SURGERS    Raiders/Chargers      Bandits/Volts          Outlaws/Hurrican
 [YEAR 2] -> HEMISPHERIAL BRACKETS set up for the qualifying 16 clubs, proceeding to K.O. ELIMINATION!
 
 * WINNER = TAKES CROWN / LOSING HEMISPHERE = HOSTS NEXT CUP!
+
 
