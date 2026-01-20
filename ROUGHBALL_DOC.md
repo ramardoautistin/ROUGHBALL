@@ -130,7 +130,7 @@ H | CB   .   .   .   SG   .   .   LB |
 - Weekly, an event triggers a d4-1 PENALTY on any given STAT: (1. TKL | 2. AWR | 3. INT | 4. PAS)
 
 2. TRAINING TUESDAY DRILLS: 
-BASE STATS -> ♣: Rush Tackle / ♡: Box Snaps / ♠: Pursuit Tackle / ♢: Shuffle Catch
+BASE STATS -> ♣: Rush Tackle / ♡: Box Snaps / ♠: Pursuit Tackle / ♢: Shuffle Passing
 SAVING THROWS -> ♣: Scrum Locks / ♡: Carrier Sprints / ♠: Post Kicking / ♢: Contested Catching
 - Weekly, select a different drill to work on: adding temporary d4-1 BONUS to selected STAT or ST! (+0-3)
 
@@ -161,7 +161,7 @@ SAVING THROWS -> ♣: Scrum Locks / ♡: Carrier Sprints / ♠: Post Kicking / �
 ## THE DRAFT
 * DRAFT DAY allows a GM to fill up 4 ROSTER SPOTS (1 per suit) w/ 4 CARD PICKS + d6-1 STARS!
 - STAR QUALITY grants temporary +X STAT for SUIT during seasons (& trades always possible!)
-- 8 ROSTER SPOTS are present: INCOMING (4 draft, 4 promos) OUTGOING (4 promoted, 4 retired)
+- 8-MAN STARTER + 4-MAN BACKUP (4 ROSTER SPOTS available after 1st season: incoming & outgoing trades)
 * FULL TEAM DRAFT available for brand new franchises or assembling international tournament rosters!
 > Draw 8 cards to determine each position throughout the roster, according to the following table:
 
