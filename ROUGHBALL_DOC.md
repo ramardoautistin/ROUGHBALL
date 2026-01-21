@@ -5,10 +5,10 @@ both its Rugby and American Football counterparts, while fixing "flow"
 issues present in both games, such as: the ban on the "forward pass"
 established in rugby, the lack of "free punting" the ball in football,
 plus the entire "yardage" and "downs" system which makes the games 
-harder to watch. however, both sports contain fascinating rulings as well:
+harder to watch. However, both sports contain fascinating rulings as well:
 the playcalling and general strategy implied in american football (serving
 as the basis for our ROUGHBALL simplified formation system) as well as our 
-ZONE/RUN/BLITZ/PASS system which enhances the familiarity of play. brought 
+ZONE/RUN/BLITZ/PASS system which enhances the familiarity of play. Brought 
 from rugby: the side pass, live ball & kicking mechanics, scrum and general 
 constant scrimmages, PROPER tackling techniques, and field goal penalties 
 granted for unsportsmanlike conducts between teams!
@@ -22,9 +22,9 @@ on live ball mechanics & perpetual possession "flippages" ensued during the matc
 ## OFFENSIVE AND DEFENSIVE FORMATIONS
      1   2   3   4   5   6   7   8
   |----------------------------------| (AWAY Endzone + Goal Post)
-A |  .   .   .   RG   .   .   .   .  | 
-B |  .   .   .   .   QG   .   .   .  | 
-C |  WB  .   .   .   .   .    .   TB | 
+A |  .   .   .   RB   .   .   .   .  | 
+B |  .   .   .   .   QB   .   .   .  | 
+C |  WR  .   .   .   .   .    .   TE | 
 D |  .   .   DE  OT  DT  OG   .   .  | (OFFENSE -> DRIVING)
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx << NEUTRAL SNAP POINT >>
 E |  .   .   OG  DT  OT  DE  .    .  | (DEFENSE -> HOLDING)
@@ -70,12 +70,12 @@ H | CB   .   .   .   SG   .   .   LB |
   - Possession: Hearts/Diamonds = Offense. Clubs/Spades = Defense.
 * PHASE II: THE CLASH (D66)
   - Calculate Hits based on Rank Success Window. Stats only affect TIE-BREAKERS!
-    - I. Unranked Rookies:   1 Success Window    | 1 Floor STAT + 1 SP (Unranked)
-    - II. Backyard Amateurs: 1-2 Success Window  | 2 Floor STAT + 2 SP (D4 Prospect)
-    - III. High School Pros:    1-3 Success Window  | 3 Floor STAT + 3 SP (D3 Prospect)
-    - IV. College Superstars: 1-4 Succes Window | 4 Floor STAT + 4 SP (D2 Prospect)
-    - V. National Legends:   1-5 Success Window  | 5 Floor STAT + 5 SP (D1 Prospect)
-   * Skill Points are added during the PRE-SEASON, following division promotions.
+    - I. Unranked Rookies:   1 Success Window    | 1 DIVISION FLOOR STAT (Unranked Prospect)
+    - II. Backyard Amateurs: 1-2 Success Window  | 2 DIV FLOOR STAT (D4 Amateur)
+    - III. High School Pros:    1-3 Success Window  | 3 DIV FLOOR STAT (D3 Pro)
+    - IV. College Superstars: 1-4 Succes Window | 4 DIV FLOOR STAT (D2 Superstar)
+    - V. National Legends:   1-5 Success Window  | 5 DIV FLOOR STAT (D1 Legend)
+   * SKILL POINTS follow division promotions: calculate total SKILL POOL based on (ROSTER ☆ BONUS // 2).
    * Leagues like the IRBL focus on a HIT/MISS system reliant on EVEN/ODD calculations.
 * PHASE III: RESOLUTION
   - Clean Win: Highest hits wins. Play advancement or conversion.
@@ -117,7 +117,7 @@ H | CB   .   .   .   SG   .   .   LB |
 | 9     | Long             | Slot             |
 | 10    | Handoff          | Man 2 Man        |
 +-------+------------------+------------------+
-
+* K = KICK BASED ON SUIT: C = DEFENSIVE PUNT | H = SELF-KICK | S = OFFENSIVE PUNT | D = KICK-PASS
 [ J = FEINT PLAY | Q = SIDE PASS | K = KICK PASS | A = SPREAD FORM | JKR = SPECIAL! ]
 [ (T FORMATION)  | (Y FORMATION) | (V FORMATION) | > CALL SIGNATURE PLAYS OR MOVES  ]
 
@@ -130,7 +130,7 @@ H | CB   .   .   .   SG   .   .   LB |
 - Weekly, an event triggers a d4-1 PENALTY on any given STAT: (1. TKL | 2. AWR | 3. INT | 4. PAS)
 
 2. TRAINING TUESDAY DRILLS: 
-BASE STATS -> ♣: Rush Tackle / ♡: Box Snaps / ♠: Pursuit Tackle / ♢: Shuffle Passing
+BASE STATS -> ♣: Rush Tackles / ♡: Box Snaps / ♠: Pursuit Tackling / ♢: Shuffle Passing
 SAVING THROWS -> ♣: Scrum Locks / ♡: Carrier Sprints / ♠: Post Kicking / ♢: Contested Catching
 - Weekly, select a different drill to work on: adding temporary d4-1 BONUS to selected STAT or ST! (+0-3)
 
@@ -160,7 +160,7 @@ SAVING THROWS -> ♣: Scrum Locks / ♡: Carrier Sprints / ♠: Post Kicking / �
 
 ## THE DRAFT
 * DRAFT DAY allows a GM to fill up 4 ROSTER SPOTS (1 per suit) w/ 4 CARD PICKS + d6-1 STARS!
-- STAR QUALITY grants temporary (+☆-1) STAT BONUS for SUIT thru contract! (trades always possible...)
+- STAR QUALITY grants (+☆-1) STAT BONUS for SUIT SKILL POOL thru contract! (trades always possible...)
 - 8-MAN STARTER/4-MAN BACKUP (4 ROSTER SPOTS available after 1st season: INCOMING & OUTGOING trades)
 * FULL TEAM DRAFT available for brand new franchises or assembling international tournament rosters!
 > Draw 8 cards to determine each position throughout the roster, according to the following table:
@@ -297,5 +297,4 @@ PIRATES/SURGERS    Raiders/Chargers      Bandits/Volts          Outlaws/Hurrican
 [YEAR 2] -> HEMISPHERIAL BRACKETS set up for the qualifying 16 clubs, proceeding to K.O. ELIMINATION!
 
 * WINNER = TAKES CROWN / LOSING HEMISPHERE = HOSTS NEXT CUP!
-
 
