@@ -7,25 +7,25 @@ COACH: _________________________        GENERAL MANAGER: ______________________
 CURRENT RECORD: [ WINS = (  ) LOSSES = (   ) TIES = (  ) CHAMPIONSHIPS = (  ) ]
 ================================================================================
 
-[1] THE WHITEBOARD: ROSTER & ASSET TRACKING
+[1] THE WHITEBOARD: ROSTER & ASSET TRACKING (8 STARTERS)
 > Updated weekly after training drills, or during draft season roster setup!
 +----------------------+-----+-----+-------+-----------------------------------+
 | UNIT / SUIT          | BASE| MOD | TOTAL | KEY PERSONNEL (NAMES & NOTES)     |
 +----------------------+-----+-----+-------+-----------------------------------+
-| ♣ CLUBS (TKL/STA)    | [ ] | [ ] | [   ] | _________________________________ |
-|   (Scrimmagers)      |     |     |       | _________________________________ |
+| ♣ CLUBS (TKL/STA)    | [ ] | [ ] | [   ] | (DT)_____________(LB)____________ |
+|   (Scrimmagers)      |     |     |       | (DE)_____________________________ |
 +----------------------+-----+-----+-------+-----------------------------------+
-| ♥ HEARTS (AWR/SPD)   | [ ] | [ ] | [   ] | _________________________________ |
-|   (Field Generals)   |     |     |       | _________________________________ |
+| ♥ HEARTS (AWR/SPD)   | [ ] | [ ] | [   ] | (QG)_____________(SG)____________ |
+|   (Field Generals)   |     |     |       | (RG)_____________________________ |
 +----------------------+-----+-----+-------+-----------------------------------+
-| ♠ SPADES (INT/KCK)   | [ ] | [ ] | [   ] | _________________________________ |
-|   (Pitch Guards)     |     |     |       | _________________________________ |
+| ♠ SPADES (INT/KCK)   | [ ] | [ ] | [   ] | (OG)_____________(CB)____________ |
+|   (Pitch Guards)     |     |     |       | (OT)_____________________________ |
 +----------------------+-----+-----+-------+-----------------------------------+
-| ♦ DIAMONDS (PAS/CAT) | [ ] | [ ] | [   ] | _________________________________ |
-|   (Air Raiders)      |     |     |       | _________________________________ |
+| ♦ DIAMONDS (PAS/CAT) | [ ] | [ ] | [   ] | (WB)_____________(SG)____________ |
+|   (Air Raiders)      |     |     |       | (TB)_____________________________ |
 +----------------------+-----+-----+-------+-----------------------------------+
 
-# POSITIONAL ROSTER AND FORMATIONS
+# NEUTRAL FORMATIONS & BACKUP POSITIONAL ROSTER (4 BACK-UP)
      1   2   3   4   5    6   7   8
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx (BONUS) (FLOOR) (DRAFTED) (POSITION)
 A |  .   .   .   DT  .   DE   .   .  |     ___     (♣)      ___       ____
@@ -56,7 +56,7 @@ D | WB   .   .   .   RG   .   .   TB |
 | Present E. | #__ [        ] | ___________________ | _________________ |
 +------------+----------------+---------------------+-------------------+
 
-[!] RETIRED JERSEYS / HALL OF FAME INDUCTEES:
+[!] DUAL THREAT LEGENDS / VETERAN PLAYER HALL OF FAME:
 
     1. __________________________________  2. _________________________________
 
@@ -163,7 +163,7 @@ CURRENT "NATIONAL DISGRACE" (LAST PLACE): ____________________
 > NOTES  : ___________________________________________________________________
 
 --------------------------------------------------------------------------------
->>> PHASE 4: THE CHAMPIONSHIP (THE BAD BLOOD BOWL)
+>>> PHASE 4: THE CHAMPIONSHIP (THE BAD BLOOD GAUNTLET)
 --------------------------------------------------------------------------------
 * WEEK 10 | [M]      [T]      [W]      [T]      [F]      [S]      [S]
            MEDIA    TRAINING  STUDY    BACKYARD HIGH S.  COLLEGE  NATIONAL
@@ -182,15 +182,15 @@ CURRENT "NATIONAL DISGRACE" (LAST PLACE): ____________________
 > NOTES  : ___________________________________________________________________
 
 --------------------------------------------------------------------------------
-* [WEEK 12: OFF-SEASON DUTIES] THE DRAFT(8 ROSTER SPOTS: 4 retired, 4 promoted)
+* [WEEK 12: OFF-SEASON DUTIES] THE DRAFT (4 BACKUP SLOTS)
 
-> DRAFT RECRUITING HAUL:
+> INCOMING DRAFT RECRUITS:
   1. ___________________ (Pos: ___) Star: ___
   2. ___________________ (Pos: ___) Star: ___
   3. ___________________ (Pos: ___) Star: ___
   4. ___________________ (Pos: ___) Star: ___
 
-> ROSTER PROMOTIONS:
+> OUTGOING PLAYER TRADES:
   1. ___________________ (Pos: ___) Star: ___
   2. ___________________ (Pos: ___) Star: ___
   3. ___________________ (Pos: ___) Star: ___
@@ -199,7 +199,7 @@ CURRENT "NATIONAL DISGRACE" (LAST PLACE): ____________________
 --------------------------------------------------------------------------------
 * [OFFICIAL NRBL SEASON FIXTURE]
 
-PHASE 1: LINEAGE QUALIFIERS(PRE-SEASON)   |PHASE 2: CARDINAL CARNAGE(REG-SEASON)
+PHASE 1: LINEAGE QUALIFIERS(PRE-SEASON)   |PHASE 2: REGIONAL RIVALS (REG-SEASON)
 ------------------------------------------+-------------------------------------
 [ NORTH REGION ] (Greenland Mountains)    |
 > FOUNDER DUEL:                           |
@@ -242,7 +242,7 @@ PHASE 1: LINEAGE QUALIFIERS(PRE-SEASON)   |PHASE 2: CARDINAL CARNAGE(REG-SEASON)
                                           | 👑 KING OF THE WEST: ______________
 					  |
 ==========================================+=====================================
-PHASE 3: BAD-BLOOD CHAMPIONSHIP (PLAYOFF) | PHASE 4: BAD-BLOOD GAUNLET (FINALS)
+PHASE 3: CARDINAL CARNAGE  (PLAYOFF)      | PHASE 4: BAD-BLOOD GAUNLET (FINALS)
 ================================================================================
 > SEMI-FINAL 1 (KOTN vs. KOTS)            | > THE BAD-BLOOD CHAMPIONSHIP 
                                           |        (Winner 1 vs. Winner 2)

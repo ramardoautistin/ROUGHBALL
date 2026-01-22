@@ -2,9 +2,9 @@
 [[ NRBL MANAGEMENT: TACTICAL PLAYBOOK ]]                 FINAL SCORE: [___/___]
 ================================================================================
 
-[1] PLAY & STUDY LOG (SAMPLE DECK CALLS)
+[1] PLAY CALLS & DECK STUDIES: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 > Draw formations relative to the center Neutral Snap Point (N).
-> Top and Bottom lines represent the opposing Endzones.
+* Top and Bottom lines represent the opposing Endzones.
 
  1°                                     2°
  CARDS: [       ]  ________________     CARDS: [       ]  ________________
@@ -63,5 +63,5 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 
 ================================================================================
-> END OF PLAYBOOK SHEET.                                    [ NRBL CLASSIFIED ]
+> END OF PLAYBOOK SHEET...                                   [ NRBL CLASSIFIED ]
 ================================================================================

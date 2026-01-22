@@ -1,0 +1,84 @@
+================================================================================
+[[ GLOBAL NATIONS ROUGHBALL CLUB WIPEOUT - LOGBOOK ]]   (GNRBCL CONFIDENTIAL)
+================================================================================
+ERA: _______ REGION: _______________ NAT:[  ] HEMISPHERE: [ WESTERN / EASTERN ] 
+CLUB NAME: __________________________________ CARDINAL POINT:[ N / S / W / E ] 
+COACH: _____________________________   GENERAL MANAGER: _______________________
+CURRENT RECORD: [ WIN = (  ) LOSS = (   ) TIE = (  ) WIPEOUT CROWNS = (  ) ]
+================================================================================
+[1] POSITIONAL ROSTER & JKR ASSETS
+================================================================================
+ID | SUIT | POS | PLAYER NAME / POS. CALLSIGN | STAR QUALITY (0-5)  | VETERANCY
+---|------|-----|-----------------------------|---------------------|-----------
+01 |      |     |                         #__ | ( ) ( ) ( ) ( ) ( ) | [ ] ____
+02 |      |     |                         #__ | ( ) ( ) ( ) ( ) ( ) | [ ] ____
+03 |      |     |                         #__ | ( ) ( ) ( ) ( ) ( ) | [ ] ____
+04 |      |     |                         #__ | ( ) ( ) ( ) ( ) ( ) | [ ] ____
+05 |      |     |                         #__ | ( ) ( ) ( ) ( ) ( ) | [ ] ____
+06 |      |     |                         #__ | ( ) ( ) ( ) ( ) ( ) | [ ] ____
+07 |      |     |                         #__ | ( ) ( ) ( ) ( ) ( ) | [ ] ____
+08 |      |     |                         #__ | ( ) ( ) ( ) ( ) ( ) | [ ] ____
+--------------------------------------------------------------------------------
+[ BACKUP ROSTER: 1. __________ | 2. __________ | 3. __________ | 4. __________ ]
+--------------------------------------------------------------------------------
+> STATS: [ ♣ TKL/STA: __ ] [ ♡ AWR/SPD: __ ] [ ♠ INT/KCK: __ ] [ ♢ PAS/CAT: __ ]
+================================================================================
+[2] YEAR 1 - DOMESTIC PRE-SELECTION (REGIONAL GAUNTLETS)
+================================================================================
+[PRE-SEASON] SUMMER CAMP DRILLS (W1 - W3)
+> FOCUS STAT: ___________ (+d4-1 SUIT BONUS) | DRILLS: ________________________
+
+> FOCUS THROW: __________ (+d4-1 SAVING THROW BONUS) DRILLS: __________________
+
+> POS. WEAKNESS: (   ) / __ CURSED SUIT! (-d4-1 PENALTY!) MEDIA: ______________
+
+[REGULAR SEASON] TOP-8 QUALIFIERS (W4 - W6)
+> RECORD: W [   ]  L [   ] | STANDING: # ___ | QUALIFIED? [ Y / N ]
+- EVERY REGULAR SEASON FOR EACH NATION DETERMINES CURRENT RANKED TEAMS!
+
+[PLAYOFFS] CARDINAL KING ELIMINATION (W7 - W9)
+> TOP-4 REGIONAL TEAMS PER NATION! | CURRENT REGION: __________________________
+#1. KING OF THE NORTH: _ _ _ _ _ _ _ _ #3. KING OF THE EAST:  _ _ _ _ _ _ _ _
+#2. KING OF THE SOUTH: _ _ _ _ _ _ _ _ #4. KING OF THE WEST:  _ _ _ _ _ _ _ _
+
+[OFF-SEASON] POSITIONAL DRAFT (W10 - W12)
+> DRAFT PICKS ACQUIRED: 1._______ 2._______ 3._______ 4._______ 
+
+> INCOMING TRADES: ____________________  OUTGOING PLAYERS: ____________________
+================================================================================
+[3] YEAR 2 - HEMISPHERIAL BRACKET (CLUB TOURNAMENT WIPEOUT)
+> West fights West (♥/♣). East fights East (♦/♠). Only KINGS meet in the Duel.
+------------------------------------------+-------------------------------------
+[WESTERN BRACKET] (Heartland/Unit. South) |[EASTERN BRACKET] (Nordic/Prom. Land)
+------------------------------------------+-------------------------------------
+> ROUND OF 16 (Inter-Continental)         | > ROUND OF 16 (Inter-Continental)
+ (WA) Heart N   vs. (WA) South N  ______  | (EA) Nord N   vs. (EA) Prom N  ____
+ (WB) South S   vs. (WB) Heart S  ______  | (EB) Prom S   vs. (EB) Nord S  ____
+ (WC) Heart E   vs. (WC) South E  ______  | (EC) Nord E   vs. (EC) Prom E  ____
+ (WD) South W   vs. (WD) Heart W  ______  | (ED) Prom W   vs. (ED) Nord W  ____
+------------------------------------------+-------------------------------------
+> WESTERN QUARTER-FINALS                  | > EASTERN QUARTER-FINALS 
+ [Winner A] ____ vs. [Winner B] ____      | [Winner A] ____ vs. [Winner B] ____
+ [Winner C] ____ vs. [Winner D] ____      | [Winner C] ____ vs. [Winner D] ____
+------------------------------------------+-------------------------------------
+> WESTERN SEMI-FINAL (Hemisphere 👑)      | > EASTERN SEMI-FINAL (Hemisphere 👑)
+ [West Finalist 1] __________________     | [East Finalist 1] _________________
+            VS.                           |          VS.
+ [West Finalist 2] __________________     | [East Finalist 2] _________________
+                                          |
+ WEST KING: 👑 ______________________     | EAST KING: 👑 _____________________
+==========================================+=====================================
+                    >>> THE CLUB WIPEOUT CROWN DUEL <<<
+    [ WESTERN KING ] ________________ vs. ________________ [ EASTERN KING ]
+🏆 CLUB DUEL WINNER (Takes the CROWN!)|🗺️ OVERSEAS DISGRACE (HOSTS >> wipeout!)
+================================================================================
+[ SECTION 4: THE JKR SIGNATURE PLAYBOOK (INTRA-MATCH TACTICS) ]
+================================================================================
+
+[I]: _ _ _  [II]: _ _ _  [III]: _ _ _  [IV]: _ _ _  [V]: _ _ _   [VI]: _ _ _ 
+NOTES: _____________________________________________________________________
+____________________________________________________________________________
+____________________________________________________________________________
+================================================================================
+[ END OF CLUB LOG... ]                            (GLOBAL NATIONS CLUB WIPEOUT)
+================================================================================
