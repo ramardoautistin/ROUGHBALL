@@ -1,7 +1,6 @@
 ================================================================================
 [[ NATIONAL ROUGHBALL LEAGUE: ROSTER DEPTH CHART ]]           (NRBL CLASSIFIED)
 ================================================================================
-
 ERA: _______ REGION: _______________ NAT:[  ] > HEMISPHERE: [ WESTERN / EASTERN ] 
 CLUB NAME: __________________________________ * CARDINAL POINT:[ N / S / W / E ]
 LOGO: [		     		]    ROSTER CAP VALUE: ¢ _ _ _ _ _ _ _ _ _ _ _ _
@@ -16,7 +15,7 @@ LOGO: [		     		]    ROSTER CAP VALUE: ¢ _ _ _ _ _ _ _ _ _ _ _ _
 +----------------------------+-----------------------------+
 | [♣] SCRIMMAGERS            | [♡] FIELD GENERALS          |
 +----------------------------+-----------------------------+
-|POS. | CARDS | RATING | MOD | POS. | CARDS | RATING | MOD |
+|POS. | CARDS | RATING | MOD |POS. | CARDS | RATING | MOD  |
 |(DT) | [   ] |  __ ☆  | ±__ |(QG) | [   ] |  __ ☆  | ±__ |
 |(DE) | [   ] |  __ ☆  | ±__ |(RG) | [   ] |  __ ☆  | ±__ |
 |(LB) | [   ] |  __ ☆  | ±__ |(SG) | [   ] |  __ ☆  | ±__ |
@@ -27,7 +26,7 @@ LOGO: [		     		]    ROSTER CAP VALUE: ¢ _ _ _ _ _ _ _ _ _ _ _ _
 +----------------------------+-----------------------------+
 | [♠] PITCH GUARDS	     | [♢] AIR RAIDERS 	           |
 +----------------------------+-----------------------------+
-|POS. | CARDS | RATING | MOD | POS. | CARDS | RATING | MOD |
+|POS. | CARDS | RATING | MOD |POS. | CARDS | RATING | MOD  |
 |(OG) | [   ] |  __ ☆  | ±__ |(WB) | [   ] |  __ ☆  | ±__ |
 |(OT) | [   ] |  __ ☆  | ±__ |(TB) | [   ] |  __ ☆  | ±__ |
 |(CB) | [   ] |  __ ☆  | ±__ |(SG) | [   ] |  __ ☆  | ±__ |
@@ -45,7 +44,7 @@ xxxxxxxxxxxxxxxxxxOxxxxxxxxxxxxxxxxxxxxx
 0 |  .   .   .  (  )  .  (  ) .   .  |  SCRIMMAGE LINE: _ _ _ _ _ _ _ _ _ _ _ _
 1 |  .   .  (  ) .  (  )  .   .   .  |  PITCH PURSUIT: _ _ _ _ _ _ _ _ _ _ _ _ 
 2 |  .   .   .  (  )  .   .   .   .  |  BACK FIELD: _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-3 | (  ) .   .   .  (  )  .   . (  ) |  CORNER AREA: _ _ _ _ _ _ _ _ _ _ _ _ _ 
+3 | (  ) .   .   .  (  )  .   . (  ) |  CORNER ROUTE: _ _ _ _ _ _ _ _ _ _ _ _ _ 
   |----------------------------------|   
 
 > DRIVING FORMATION ROSTER
@@ -53,7 +52,7 @@ xxxxxxxxxxxxxxxxxxOxxxxxxxxxxxxxxxxxxxxx
 0 |  .   .   .  (  )  .  (  ) .   .  |  SCRIMMAGE LINE: _ _ _ _ _ _ _ _ _ _ _ _
 1 |  .   .  (  ) .  (  )  .   .   .  |  PITCH PURSUIT: _ _ _ _ _ _ _ _ _ _ _ _ 
 2 |  .   .   .  (  )  .   .   .   .  |  BACK FIELD: _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-3 | (  ) .   .   .  (  )  .   . (  ) |  CORNER AREA: _ _ _ _ _ _ _ _ _ _ _ _ _ 
+3 | (  ) .   .   .  (  )  .   . (  ) |  CORNER ROUTE: _ _ _ _ _ _ _ _ _ _ _ _ _ 
   |----------------------------------|   
 
 > HOLDING FORMATION ROSTER
@@ -61,7 +60,7 @@ xxxxxxxxxxxxxxxxxxOxxxxxxxxxxxxxxxxxxxxx
 0 |  .   .   .  (  )  .  (  ) .   .  |  SCRIMMAGE LINE: _ _ _ _ _ _ _ _ _ _ _ _
 1 |  .   .  (  ) .  (  )  .   .   .  |  PITCH PURSUIT: _ _ _ _ _ _ _ _ _ _ _ _ 
 2 |  .   .   .  (  )  .   .   .   .  |  BACK FIELD: _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-3 | (  ) .   .   .  (  )  .   . (  ) |  CORNER AREA: _ _ _ _ _ _ _ _ _ _ _ _ _ 
+3 | (  ) .   .   .  (  )  .   . (  ) |  CORNER ROUTE: _ _ _ _ _ _ _ _ _ _ _ _ _ 
   |----------------------------------|   
 
 NOTES: _____________________________________________________________________
