@@ -8,7 +8,7 @@ LOGO: [		     		]    ROSTER CAP VALUE: ¢ _ _ _ _ _ _ _ _ _ _ _ _
       [		     		]    SKILL POINT POOL: [ _ _ _ _ _ _ _ _ _ _ _ ]   
 
 ================================================================================
-> POSITIONAL STATS (DIVISIONAL FLOOR STAT + ROSTER STAT BONUS // 2):
+> POSITIONAL STATS (DIVISIONAL FLOOR STAT + ROSTER STAT BONUS TOTAL // 2):
  [ ♣ TKL/STA: __ ] [ ♡ AWR/SPD: __ ] [ ♠ INT/KCK: __ ] [ ♢ PAS/CAT: __ ]
 
 * ROSTER DEPTH CHART & STAT TRACKER P/ POSITION.
@@ -71,4 +71,5 @@ ____________________________________________________________________________
 
 ================================================================================
 > END OF DEPTH CHART LOG...
+
 ================================================================================
