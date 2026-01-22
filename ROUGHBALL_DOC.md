@@ -305,6 +305,7 @@ NE: YACARÉS del Iguazú 🐊🏞          NE: Vietcong VIPERS 🐍🏝         
 SF: PUMAS de los Andes 🐅🗻         SF: Sahara Desert CAMELS 🐪🏜      SF: Haiku Town PANDAS 🐼⛩️
 SE: PINGÜINOS Patagónicos 🐧🏔       SE: South Canal CROCODILES 🐊🧭   SE: Nordic River SEALS 🐳🏞
 EF: CARPINCHOS del Estero 🐗🏙       EF: Al Arab Dunes RHINOS 🦏🏜      EF: Notting Hill HOUNDS 🐕⛰️
-EE: VIZCACHAS Pampeanas 🐇🏕         EE: Gizeh Pyramids GIRAFFES  🦒☀️  EE: Kraine Hamlet CRANES 🕊🏘
+EE: VIZCACHAS Pampeanas 🐇🏕         EE: Gizeh Pyramids GIRAFFES 🦒☀️   EE: Kraine Hamlet CRANES 🕊🏘
 WF: YAGUARETÉS de Yunga Amazão 🐆🌴  WF: Zulu Nation ZEBRAS 🦓🌄       WF: Roman Coast WOLVES 🐺🏛
 WE: ORCAS Atlánticas 🐋🏖            WE: Camerun Mines ELEPHANTS 🐘🏗   WE: Leningrad Front FOXES 🦊🏰
+
