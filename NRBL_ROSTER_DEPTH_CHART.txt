@@ -41,7 +41,7 @@ LOGO: [		     		]    ROSTER CAP VALUE: ¢ _ _ _ _ _ _ _ _ _ _ _ _
 * FIELD FORMATIONS & ZONE ASSIGNMENTS P/ DRIVE TYPE.
 --------------------------------------------------------------------------------
 > NEUTRAL FORMATION ROSTER
-xxxxxxxxxxxxxxxxxOxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxOxxxxxxxxxxxxxxxxxxxxx
 0 |  .   .   .  (  )  .  (  ) .   .  |  SCRIMMAGE LINE: _ _ _ _ _ _ _ _ _ _ _ _
 1 |  .   .  (  ) .  (  )  .   .   .  |  PITCH PURSUIT: _ _ _ _ _ _ _ _ _ _ _ _ 
 2 |  .   .   .  (  )  .   .   .   .  |  BACK FIELD: _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
@@ -49,7 +49,7 @@ xxxxxxxxxxxxxxxxxOxxxxxxxxxxxxxxxxxxxxxx
   |----------------------------------|   
 
 > DRIVING FORMATION ROSTER
-xxxxxxxxxxxxxxxxxOxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxOxxxxxxxxxxxxxxxxxxxxx
 0 |  .   .   .  (  )  .  (  ) .   .  |  SCRIMMAGE LINE: _ _ _ _ _ _ _ _ _ _ _ _
 1 |  .   .  (  ) .  (  )  .   .   .  |  PITCH PURSUIT: _ _ _ _ _ _ _ _ _ _ _ _ 
 2 |  .   .   .  (  )  .   .   .   .  |  BACK FIELD: _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
@@ -57,7 +57,7 @@ xxxxxxxxxxxxxxxxxOxxxxxxxxxxxxxxxxxxxxxx
   |----------------------------------|   
 
 > HOLDING FORMATION ROSTER
-xxxxxxxxxxxxxxxxxOxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxOxxxxxxxxxxxxxxxxxxxxx
 0 |  .   .   .  (  )  .  (  ) .   .  |  SCRIMMAGE LINE: _ _ _ _ _ _ _ _ _ _ _ _
 1 |  .   .  (  ) .  (  )  .   .   .  |  PITCH PURSUIT: _ _ _ _ _ _ _ _ _ _ _ _ 
 2 |  .   .   .  (  )  .   .   .   .  |  BACK FIELD: _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
@@ -73,5 +73,3 @@ ____________________________________________________________________________
 ================================================================================
 > END OF DEPTH CHART LOG...
 ================================================================================
-
-
