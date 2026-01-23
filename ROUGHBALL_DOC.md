@@ -296,7 +296,7 @@ PIRATES/SURGERS    Raiders/Chargers      Bandits/Volts          Outlaws/Hurrican
 [YEAR 1] -> REGIONAL TOP-4 must be determined from each cardinal division (N, S, E, W) for a nation.
 [YEAR 2] -> HEMISPHERIAL BRACKETS set up for the qualifying 16 clubs, proceeding to K.O. ELIMINATION!
 
-* WINNER = TAKES THE CROWN 👑 / LOSING HEMISPHERE = HOSTS NEXT CUP!
+* DUEL WINNER 👑 = TAKES THE CROWN! / LOSING HEMISPHERE 🌐 = HOSTS NEXT CUP!
 
 # CLUB TEAM NAMES AND LOGOS PER REGION (* F = FOUNDING / E = EXPANSION)
 ♧ UNITED SOUTH                       ♤ PROMISED LAND                    ◇ NORDIC ELITE
@@ -308,4 +308,3 @@ EF: CARPINCHOS del Estero 🐗🏙       EF: Al Arab Dunes RHINOS 🦏🏜      
 EE: VIZCACHAS Pampeanas 🐇🏕         EE: Gizeh Pyramids GIRAFFES 🦒☀️   EE: Kraine Hamlet CRANES 🕊🏘
 WF: YAGUARETÉS de Yunga Amazão 🐆🌴  WF: Zulu Nation ZEBRAS 🦓🌄       WF: Roman Coast WOLVES 🐺🏛
 WE: ORCAS Atlánticas 🐋🏖            WE: Camerun Mines ELEPHANTS 🐘🏗   WE: Leningrad Front FOXES 🦊🏰
-
