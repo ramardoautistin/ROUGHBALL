@@ -212,7 +212,7 @@ BEARS/SCORPIONS    Bruins/Spiders        Grizzlies/Stingers     Cubs/Snakes
 
 PIRATES/SURGERS    Raiders/Chargers      Bandits/Volts          Outlaws/Hurricanes
 
-# BONUS SECTION: NRBL STATS FOR PRO-LEAGUE FRANCHISES
+# BONUS SECTION: NRBL STATS FOR PRO-LEAGUE FRANCHISES (♡ THE HEARTLAND)
 * NORTH CONFERENCE: 
     - Mountain LIONS 🏔️🦁    (♣: 8 ♡: 4 ♠: 7 ♢: 6) [Mountain Rugged]
     - Greenland VIKINGS 🛶👑 (♣: 6 ♡: 7 ♠: 8 ♢: 4) [Land Raiders]
@@ -237,7 +237,7 @@ PIRATES/SURGERS    Raiders/Chargers      Bandits/Volts          Outlaws/Hurrican
     - Lake Brown SEAHAWKS 🌊🦅   (♣: 5 ♡: 9 ♠: 6 ♢: 5) [Pure Awareness]
 * WEST DIVISION (Expansion):
     - Red Desert SCORPIONS 🦂🏜️  (♣: 7 ♡: 6 ♠: 5 ♢: 7) [Arid Desert]
-    - Western SURGERS ⚡🌪       (♣: 4 ♡: 7 ♠: 6 ♢: 9) [Tsunami Build]
+    - Western SURGERS ⚡🌊       (♣: 4 ♡: 7 ♠: 6 ♢: 9) [Tsunami Build]
 
 ================================================================================================
                                 ROUGHBALL D88 CARNAGE COORDINATES                                 
@@ -262,7 +262,7 @@ PIRATES/SURGERS    Raiders/Chargers      Bandits/Volts          Outlaws/Hurrican
 +----------+---------------+----------------+-----------------+-----------------+-----------------+
 |OLD TIMEY | Patriots 🏙️🏳️| Bears 🧭🐻    | Vikings 🛶👑   | Lions 🏔️🦁     | SAINTS ⛰️⚜️    |
 +----------+---------------+----------------+-----------------+-----------------+-----------------+
-|GOLDEN AGE| Pirates 🏖️🏴‍☠️ | Panthers 🏔️    | Eagles 🧭🦅    | Farmers 🚜👨‍🌾   |SCORPIONS 🦂🏜  |
+|GOLDEN AGE| Pirates 🏖️🏴‍☠️ | Panthers 🐆🏔️ | Eagles 🧭🦅    | Farmers 🚜👨‍🌾   |SCORPIONS 🦂🏜  |
 +----------+-------------- +----------------+-----------------+-----------------+-----------------+
 |MILLENIUM | Saints ⛰️⚜️  | Seahawks 🌊🦅 | Scorpions 🦂🏜️ | Stallions 🐎🌾 | BEARS 🧭🐻     |
 +----------+---------------+----------------+-----------------+-----------------+-----------------+
@@ -308,4 +308,3 @@ EF: CARPINCHOS del Estero 🐗🏙       EF: Al Arab Dunes RHINOS 🦏🏜      
 EE: VIZCACHAS Pampeanas 🐇🏕         EE: Gizeh Pyramids GIRAFFES 🦒☀️   EE: Kraine Hamlet CRANES 🕊🏘
 WF: YAGUARETÉS de Yunga Amazão 🐆🌴  WF: Zulu Nation ZEBRAS 🦓🌄       WF: Roman Coast WOLVES 🐺🏛
 WE: ORCAS Atlánticas 🐋🏖            WE: Camerun Mines ELEPHANTS 🐘🏗   WE: Leningrad Front FOXES 🦊🏰
-
