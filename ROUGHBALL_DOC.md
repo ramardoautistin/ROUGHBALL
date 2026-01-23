@@ -150,7 +150,7 @@ SAVING THROWS -> ♣: Scrum Locks / ♡: Carrier Sprints / ♠: Post Kicking / �
 [ PRE-SEASON	        REGULAR SEASON	      PLAYOFF SEASON	   OFF-SEASON ]
 - studies + drilling  - 2 games per week     - 1 game per week    - draft day
 - divisional: f vs. e - conference standings - final elimination  - team rosters
-- lineage qualifiers  - franchise carnage    - cardinal kings     - bad-blood champ ring 💍
+* LINEAGE QUALIFIERS  * FRANCHISE CARNAGE    * CARDINAL KINGS     * BAD-BLOOD CHAMP RING! 💍
 
 [ ROUGHBALL ERAS: Old Timey | Golden Age | Millenium | Pandemical ] -> Roleplaying "Flavors"
 
@@ -165,12 +165,12 @@ SAVING THROWS -> ♣: Scrum Locks / ♡: Carrier Sprints / ♠: Post Kicking / �
 * FULL TEAM DRAFT available for brand new franchises or assembling international tournament rosters!
 > Draw 8 cards to determine each position throughout the roster, according to the following table:
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx > NEUTRAL POSITIONAL ROSTER PER SUIT:
-A |  .   .   .   DT  .   DE   .   .  |     [ SUITS | TOP | BOTTOM | CORNER ]
-B |  .   .   OG  .   OT   .   .   .  |      CLUBS:   (DT) / (DE) / (LB)
-C |  .   .   .   QG   .   .   .   .  |      HEARTS:  (QG) / (RG) / (SG)
-D | WB   .   .   .   RG   .   .   TB |      SPADES:  (OG) / (OT) / (CB)
-  |----------------------------------|      DIAMONDS: (WB) / (TB) / (SG)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx > NEUTRAL POSITIONAL ROSTER PER SUIT: 
+A |  .   .   .   DT  .   DE   .   .  |     [CARD SUIT| TOP | BOTTOM | CORNER | FIELD DESIGNATION]
+B |  .   .   OG  .   OT   .   .   .  |    ♣ CLUBS    |(DT) |  (DE)  | (LB)   | SCRIMMAGE LINE (A)
+C |  .   .   .   QG   .   .   .   .  |    ♡ HEARTS   |(QG) |  (RG)  | (SG)   | BACK FIELD (C)
+D | WB   .   .   .   RG   .   .   TB |    ♠ SPADES   |(OG) |  (OT)  | (CB)   | PITCH PURSUIT (B)
+  |----------------------------------|    ♢ DIAMONDS |(WB) |  (TB)  | (SG)   | CORNER ROUTES (D)
 
 * NUMBERS 2-10 = BOTTOM position player based on suit.
 * FACE = TOP position player based on suit.
@@ -308,3 +308,4 @@ EF: CARPINCHOS del Estero 🐗🏙       EF: Al Arab Dunes RHINOS 🦏🏜      
 EE: VIZCACHAS Pampeanas 🐇🏕         EE: Gizeh Pyramids GIRAFFES 🦒☀️   EE: Kraine Hamlet CRANES 🕊🏘
 WF: YAGUARETÉS de Yunga Amazão 🐆🌴  WF: Zulu Nation ZEBRAS 🦓🌄       WF: Roman Coast WOLVES 🐺🏛
 WE: ORCAS Atlánticas 🐋🏖            WE: Camerun Mines ELEPHANTS 🐘🏗   WE: Leningrad Front FOXES 🦊🏰
+
