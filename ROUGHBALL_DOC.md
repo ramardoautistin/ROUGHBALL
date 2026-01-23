@@ -150,7 +150,7 @@ SAVING THROWS -> ♣: Scrum Locks / ♡: Carrier Sprints / ♠: Post Kicking / �
 [ PRE-SEASON	        REGULAR SEASON	      PLAYOFF SEASON	   OFF-SEASON ]
 - studies + drilling  - 2 games per week     - 1 game per week    - draft day
 - divisional: f vs. e - conference standings - final elimination  - team rosters
-- lineage qualifiers  - franchise carnage    - cardinal kings     - friendly matchups
+- lineage qualifiers  - franchise carnage    - cardinal kings     - bad-blood champ ring 💍
 
 [ ROUGHBALL ERAS: Old Timey | Golden Age | Millenium | Pandemical ] -> Roleplaying "Flavors"
 
@@ -285,8 +285,8 @@ PIRATES/SURGERS    Raiders/Chargers      Bandits/Volts          Outlaws/Hurrican
     [W1 - W2 - W3] ---> [W4 - W5 - W6] ---> [W7 - W8 - W9] ---> [W10 - W11 - W12]
     [ PRE-SEASON	        REGULAR SEASON	      PLAYOFF SEASON	    OFF-SEASON ]
     - civil wars            - tactical cross      - role reversal       - final blowout
-    * clubs vs. spades      * hearts vs. spades   * clubs vs. hearts    * winner vs. winner (CH/RU)
-    * hearts vs. diamonds   * diamonds vs. clubs  * spades vs. diamonds * loser vs. loser (WC/HOST)
+    * clubs vs. spades      * hearts vs. spades   * clubs vs. hearts    * winner vs. winner (🏆/🏅)
+    * hearts vs. diamonds   * diamonds vs. clubs  * spades vs. diamonds * loser vs. loser (🃏/🎫)
 
 # GLOBAL NATIONS CLUB CROWN - OVERSEAS LEAGUE WIPEOUT (GNRBCL)
 > GLOBALIZED ROUGHBALL CLUB LEAGUES are present in virtually every region around globe!
@@ -296,7 +296,7 @@ PIRATES/SURGERS    Raiders/Chargers      Bandits/Volts          Outlaws/Hurrican
 [YEAR 1] -> REGIONAL TOP-4 must be determined from each cardinal division (N, S, E, W) for a nation.
 [YEAR 2] -> HEMISPHERIAL BRACKETS set up for the qualifying 16 clubs, proceeding to K.O. ELIMINATION!
 
-* WINNER = TAKES CROWN / LOSING HEMISPHERE = HOSTS NEXT CUP!
+* WINNER = TAKES THE CROWN 👑 / LOSING HEMISPHERE = HOSTS NEXT CUP!
 
 # CLUB TEAM NAMES AND LOGOS PER REGION (* F = FOUNDING / E = EXPANSION)
 ♧ UNITED SOUTH                       ♤ PROMISED LAND                    ◇ NORDIC ELITE
@@ -308,3 +308,4 @@ EF: CARPINCHOS del Estero 🐗🏙       EF: Al Arab Dunes RHINOS 🦏🏜      
 EE: VIZCACHAS Pampeanas 🐇🏕         EE: Gizeh Pyramids GIRAFFES 🦒☀️   EE: Kraine Hamlet CRANES 🕊🏘
 WF: YAGUARETÉS de Yunga Amazão 🐆🌴  WF: Zulu Nation ZEBRAS 🦓🌄       WF: Roman Coast WOLVES 🐺🏛
 WE: ORCAS Atlánticas 🐋🏖            WE: Camerun Mines ELEPHANTS 🐘🏗   WE: Leningrad Front FOXES 🦊🏰
+
