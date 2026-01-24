@@ -104,19 +104,19 @@ H | CB   .   .   .   SG   .   .   LB |
   - [4] INTERCEPTION (Check KCK): Instant possession FLIP for live play + 1pt.
 
 ### 5. ROUTE & COVER REFERENCE (#2-10)
-+-------+------------------+------------------+
-| VALUE | ROUTE (OFFENSE)  | COVER (DEFENSE)  |
-+-------+------------------+------------------+
-| 2     | Dig              | Cover 2          |
-| 3     | Hitch            | Cover 3          |
-| 4     | Curl             | Cover 4          |
-| 5     | Mesh             | Nickel           |
-| 6     | Slant            | Dime             |
-| 7     | Swing            | Quarter          |
-| 8     | Stick            | Stacks           |
-| 9     | Long             | Slot             |
-| 10    | Handoff          | Man 2 Man        |
-+-------+------------------+------------------+
++-------+--------------------+------------------+
+| VALUE | ROUTE (DRIVE ♡/♢) | COVER (HOLD ♣/♠) |
++-------+--------------------+------------------+
+| 2     | Dig                | Cover 2          |
+| 3     | Hitch              | Cover 3          |
+| 4     | Curl               | Cover 4          |
+| 5     | Mesh               | Nickel           |
+| 6     | Slant              | Dime             |
+| 7     | Swing              | Quarter          |
+| 8     | Stick              | Stacks           |
+| 9     | Long               | Slot             |
+| 10    | Handoff            | Man 2 Man        |
++-------+--------------------+------------------+
 * K = KICK BASED ON SUIT: C = DEFENSIVE PUNT | H = SELF-KICK | S = OFFENSIVE PUNT | D = KICK-PASS
 [ J = FEINT PLAY | Q = SIDE PASS | K = KICK PASS | A = SPREAD FORM | JKR = SPECIAL! ]
 [ (T FORMATION)  | (Y FORMATION) | (V FORMATION) | > CALL SIGNATURE PLAYS OR MOVES  ]
@@ -154,7 +154,7 @@ SAVING THROWS -> ♣: Scrum Locks / ♡: Carrier Sprints / ♠: Post Kicking / �
 
 [ ROUGHBALL ERAS: Old Timey | Golden Age | Millenium | Pandemical ] -> Roleplaying "Flavors"
 
-[ MANAGER HIERARCHY: GM: "General Manager" | COACH: "Playmaker & Analyst" | TEAM: "Pawns & Rooks" ]
+[ CLUB HIERARCHY: GM: "General Manager" | COACH: "Playmaker & Analyst" | TEAM: "Pawns & Rooks" ]
 
 * ROOKIES -> UNRANKED: "free agents" that can become draft picks. (X SEASONS = +1 RANK)
 
@@ -175,7 +175,7 @@ D | WB   .   .   .   RG   .   .   TB |    ♠ SPADES   |(OG) |  (OT)  | (CB)   |
 * NUMBERS 2-10 = BOTTOM position player based on suit.
 * FACE = TOP position player based on suit.
 * JKR = CORNER position player based on suit + number / otherwise... SPECIAL PLAYER PULL!
-- JKR PULLS trigger 2nd card pull, determining position for drafted player (corner or dual threat).
+- JKR PULLS trigger 2nd card draw, determining position for drafted player (corner or dual threat).
 
 > "ONE LAST RIDE" is a veterancy contract offered as a "retirement delay" to vets w/ over 9 seasons!
 * CONTRACTS grant STARS to roster players after completing the # of contractual seasons agreed.
