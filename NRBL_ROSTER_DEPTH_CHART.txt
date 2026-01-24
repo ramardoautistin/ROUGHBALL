@@ -1,12 +1,12 @@
 ================================================================================
 [[ NATIONAL ROUGHBALL LEAGUE: ROSTER DEPTH CHART ]]           (NRBL CLASSIFIED)
 ================================================================================
-ERA: _______ REGION: _______________ NAT:[  ] > HEMISPHERE: [ WESTERN / EASTERN ] 
+ERA: _______ REGION: _______________ NAT:[  ] > HEMISPHERE:[ WESTERN / EASTERN ] 
 CLUB NAME: __________________________________ * CARDINAL POINT:[ N / S / W / E ]
-LOGO: [		     		]    ROSTER CAP VALUE: ¢ _ _ _ _ _ _ _ _ _ _ _ _
-      [		     		]    > STAT BONUS FORMULA +(☆ STAR QUALITY - 1) 
+LOGO: [		     		]    DIVISIONAL LEAGUE: [ _ _ _ _ _ _ _ _ _ _ _ ]
+      [		     		]    ROSTER CAP VALUE: ¢ _ _ _ _ _ _ _ _ _ _ _ _ 
       [		     		]    SKILL POINT POOL: [ _ _ _ _ _ _ _ _ _ _ _ ]  
-
+     * ( FOUNDING / EXPANSION )    > STAT BONUS FORMULA +(☆ STAR QUALITY - 1)
 ================================================================================
 > POSITIONAL STATS (DIVISIONAL FLOOR STAT + ROSTER STAT BONUS TOTAL // 2):
  [ ♣ TKL/STA: __ ] [ ♡ AWR/SPD: __ ] [ ♠ INT/KCK: __ ] [ ♢ PAS/CAT: __ ]
@@ -72,3 +72,4 @@ ____________________________________________________________________________
 ================================================================================
 > END OF DEPTH CHART LOG...
 ================================================================================
+
