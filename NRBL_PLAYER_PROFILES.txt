@@ -16,45 +16,45 @@ STATS:[ ♣ TKL/STA: __ ] [ ♡ AWR/SPD: __ ] [ ♠ INT/KCK: __ ] [ ♢ PAS/CAT:
    |________________| FLAW: _ _ _ _ _ _ _  C. TACKLE CARRIER/"ROUGH BALLS"
     SEASONS: [# _ _ ] BACKGROUND: _ _ _ _  JKR: ANY DUAL THREAT VETERAN
 
->_______________                    >_______________
-|               |  POS    STARS 	   |               |  POS    STARS 
-|               | (   )   [__☆]     |               | (   )   [__☆]
-|               | NAME: _ _ _ _     |               | NAME: _ _ _ _
-|               | CARD: _ _ _ _	   |               | CARD: _ _ _ _
-|               | VETERANCY: _ _    |               | VETERANCY: _ _ 
-|               | TRAIT: _ _ _ _	   |               | TRAIT: _ _ _ _
-|_______________| FLAW: _ _ _ _ 	   |_______________| FLAW: _ _ _ _ 
-JERSEY #: [ _ _ ] BACKG: _ _ _ _	   JERSEY #: [ _ _ ] BACKG: _ _ _ _
+>_______________                     >_______________
+|               |  POS    STARS      |               |  POS    STARS 
+|               | (   )   [__☆]      |               | (   )   [__☆]
+|               | NAME: _ _ _ _      |               | NAME: _ _ _ _
+|               | CARD: _ _ _ _	     |               | CARD: _ _ _ _
+|               | VETERANCY: _ _     |               | VETERANCY: _ _ 
+|               | TRAIT: _ _ _ _     |               | TRAIT: _ _ _ _
+|_______________| FLAW: _ _ _ _ _    |_______________| FLAW: _ _ _ _ 
+JERSEY #: [ _ _ ] BACKG: _ _ _ _      JERSEY #: [ _ _ ] BACKG: _ _ _ _
 
->_______________                    >_______________
-|               |  POS    STARS 	   |               |  POS    STARS 
-|               | (   )   [__☆]     |               | (   )   [__☆]
-|               | NAME: _ _ _ _     |               | NAME: _ _ _ _
-|               | CARD: _ _ _ _	   |               | CARD: _ _ _ _
-|               | VETERANCY: _ _    |               | VETERANCY: _ _ 
-|               | TRAIT: _ _ _ _	   |               | TRAIT: _ _ _ _
-|_______________| FLAW: _ _ _ _ 	   |_______________| FLAW: _ _ _ _ 
-JERSEY #: [ _ _ ] BACKG: _ _ _ _	   JERSEY #: [ _ _ ] BACKG: _ _ _ _
+>_______________                     >_______________
+|               |  POS    STARS      |               |  POS    STARS 
+|               | (   )   [__☆]      |               | (   )   [__☆]
+|               | NAME: _ _ _ _      |               | NAME: _ _ _ _
+|               | CARD: _ _ _ _	     |               | CARD: _ _ _ _
+|               | VETERANCY: _ _     |               | VETERANCY: _ _ 
+|               | TRAIT: _ _ _ _     |               | TRAIT: _ _ _ _
+|_______________| FLAW: _ _ _ _ _    |_______________| FLAW: _ _ _ _ 
+JERSEY #: [ _ _ ] BACKG: _ _ _ _      JERSEY #: [ _ _ ] BACKG: _ _ _ _
 
->_______________                    >_______________
-|               |  POS    STARS 	   |               |  POS    STARS 
-|               | (   )   [__☆]     |               | (   )   [__☆]
-|               | NAME: _ _ _ _     |               | NAME: _ _ _ _
-|               | CARD: _ _ _ _	   |               | CARD: _ _ _ _
-|               | VETERANCY: _ _    |               | VETERANCY: _ _ 
-|               | TRAIT: _ _ _ _	   |               | TRAIT: _ _ _ _
-|_______________| FLAW: _ _ _ _ 	   |_______________| FLAW: _ _ _ _ 
-JERSEY #: [ _ _ ] BACKG: _ _ _ _	   JERSEY #: [ _ _ ] BACKG: _ _ _ _
+>_______________                     >_______________
+|               |  POS    STARS      |               |  POS    STARS 
+|               | (   )   [__☆]      |               | (   )   [__☆]
+|               | NAME: _ _ _ _      |               | NAME: _ _ _ _
+|               | CARD: _ _ _ _	     |               | CARD: _ _ _ _
+|               | VETERANCY: _ _     |               | VETERANCY: _ _ 
+|               | TRAIT: _ _ _ _     |               | TRAIT: _ _ _ _
+|_______________| FLAW: _ _ _ _ _    |_______________| FLAW: _ _ _ _ 
+JERSEY #: [ _ _ ] BACKG: _ _ _ _      JERSEY #: [ _ _ ] BACKG: _ _ _ _
 
->_______________                    >_______________
-|               |  POS    STARS 	   |               |  POS    STARS 
-|               | (   )   [__☆]     |               | (   )   [__☆]
-|               | NAME: _ _ _ _     |               | NAME: _ _ _ _
-|               | CARD: _ _ _ _	   |               | CARD: _ _ _ _
-|               | VETERANCY: _ _    |               | VETERANCY: _ _ 
-|               | TRAIT: _ _ _ _	   |               | TRAIT: _ _ _ _
-|_______________| FLAW: _ _ _ _ 	   |_______________| FLAW: _ _ _ _ 
-JERSEY #: [ _ _ ] BACKG: _ _ _ _	   JERSEY #: [ _ _ ] BACKG: _ _ _ _
+>_______________                     >_______________
+|               |  POS    STARS      |               |  POS    STARS 
+|               | (   )   [__☆]      |               | (   )   [__☆]
+|               | NAME: _ _ _ _      |               | NAME: _ _ _ _
+|               | CARD: _ _ _ _	     |               | CARD: _ _ _ _
+|               | VETERANCY: _ _     |               | VETERANCY: _ _ 
+|               | TRAIT: _ _ _ _     |               | TRAIT: _ _ _ _
+|_______________| FLAW: _ _ _ _ _    |_______________| FLAW: _ _ _ _ 
+JERSEY #: [ _ _ ] BACKG: _ _ _ _      JERSEY #: [ _ _ ] BACKG: _ _ _ _
 
 [  PERSONALITY TRAITS   |   FLAWS & WEAKNESSES 	 |   MOTIVES & BACKGROUNDS   ]
 1.CENTERED  7.SPIRITUAL  1.PRIDE  7.AMBITION     1.BLUE COLLAR  7.REHABILITATION
