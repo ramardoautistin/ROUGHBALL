@@ -6,19 +6,19 @@ REGION:   _______________________________   CARDINAL POINT: [ N / S / W / E ]
 * (FOUNDING / EXPANSION) | ERA: _________________________ | DIVISION: [ _ _ ] 
 STATS:[ ♣ TKL/STA: __ ] [ ♡ AWR/SPD: __ ] [ ♠ INT/KCK: __ ] [ ♢ PAS/CAT: __ ]
 ================================================================================
-		      >________________ 
-		      |                | # CLUB HEAD COACH
-		      |                | NAME: _ _ _ _ _ _
-		      |                | HOMETOWN: _ _ _ _ 
-		      |                | ARCHETYPE: _ _ _ _
-		      |                | VETERANCY: _ _ _ _
-		      |                | TRAIT: _ _ _ _ _ _
-		      |________________| FLAW: _ _ _ _ _ _ _
-		       SEASONS: [# _ _ ] BACKGROUND: _ _ _ _
+   >________________ 
+   |                | # CLUB HEAD COACH    (d6 VET STRATEGICAL ARCHETYPES)
+   |                | NAME: _ _ _ _ _ _    J. PITCH GENERAL/"PLAY KICKS"
+   |                | HOMETOWN: _ _ _ _    K. WING BACKER/"OLD SCHOOL"
+   |                | ARCHETYPE: _ _ _ _   Q. FIELD RAIDER/"PURE DRIVE"
+   |                | VETERANCY: _ _ _ _   S. SCRUM GUARD/"PURE HOLD"
+   |                | TRAIT: _ _ _ _ _ _   D. AIR PITCHER/"NEW SCHOOL"
+   |________________| FLAW: _ _ _ _ _ _ _  C. TACKLE CARRIER/"ROUGH BALLS"
+    SEASONS: [# _ _ ] BACKGROUND: _ _ _ _  JKR: ANY DUAL THREAT VETERAN
 
->_______________                    >_______________
+>_______________                        >_______________
 |               |  POS    STARS 	|               |  POS    STARS 
-|               | (   )   [__☆]    |               | (   )   [__☆]
+|               | (   )   [__☆]         |               | (   )   [__☆]
 |               | NAME: _ _ _ _		|               | NAME: _ _ _ _
 |               | CARD: _ _ _ _		|               | CARD: _ _ _ _
 |               | VETERANCY: _ _ 	|               | VETERANCY: _ _ 
@@ -26,9 +26,9 @@ STATS:[ ♣ TKL/STA: __ ] [ ♡ AWR/SPD: __ ] [ ♠ INT/KCK: __ ] [ ♢ PAS/CAT:
 |_______________| FLAW: _ _ _ _ 	|_______________| FLAW: _ _ _ _ 
 JERSEY #: [ _ _ ] BACKG: _ _ _ _	JERSEY #: [ _ _ ] BACKG: _ _ _ _
 
->_______________                    >_______________
+>_______________                        >_______________
 |               |  POS    STARS 	|               |  POS    STARS 
-|               | (   )   [__☆]    |               | (   )   [__☆]
+|               | (   )   [__☆]         |               | (   )   [__☆]
 |               | NAME: _ _ _ _		|               | NAME: _ _ _ _
 |               | CARD: _ _ _ _		|               | CARD: _ _ _ _
 |               | VETERANCY: _ _ 	|               | VETERANCY: _ _ 
@@ -36,9 +36,9 @@ JERSEY #: [ _ _ ] BACKG: _ _ _ _	JERSEY #: [ _ _ ] BACKG: _ _ _ _
 |_______________| FLAW: _ _ _ _ 	|_______________| FLAW: _ _ _ _ 
 JERSEY #: [ _ _ ] BACKG: _ _ _ _	JERSEY #: [ _ _ ] BACKG: _ _ _ _
 
->_______________                    >_______________
+>_______________                        >_______________
 |               |  POS    STARS 	|               |  POS    STARS 
-|               | (   )   [__☆]    |               | (   )   [__☆]
+|               | (   )   [__☆]         |               | (   )   [__☆]
 |               | NAME: _ _ _ _		|               | NAME: _ _ _ _
 |               | CARD: _ _ _ _		|               | CARD: _ _ _ _
 |               | VETERANCY: _ _ 	|               | VETERANCY: _ _ 
@@ -46,9 +46,9 @@ JERSEY #: [ _ _ ] BACKG: _ _ _ _	JERSEY #: [ _ _ ] BACKG: _ _ _ _
 |_______________| FLAW: _ _ _ _ 	|_______________| FLAW: _ _ _ _ 
 JERSEY #: [ _ _ ] BACKG: _ _ _ _	JERSEY #: [ _ _ ] BACKG: _ _ _ _
 
->_______________                    >_______________
+>_______________                        >_______________
 |               |  POS    STARS 	|               |  POS    STARS 
-|               | (   )   [__☆]    |               | (   )   [__☆]
+|               | (   )   [__☆]         |               | (   )   [__☆]
 |               | NAME: _ _ _ _		|               | NAME: _ _ _ _
 |               | CARD: _ _ _ _		|               | CARD: _ _ _ _
 |               | VETERANCY: _ _ 	|               | VETERANCY: _ _ 
@@ -56,11 +56,13 @@ JERSEY #: [ _ _ ] BACKG: _ _ _ _	JERSEY #: [ _ _ ] BACKG: _ _ _ _
 |_______________| FLAW: _ _ _ _ 	|_______________| FLAW: _ _ _ _ 
 JERSEY #: [ _ _ ] BACKG: _ _ _ _	JERSEY #: [ _ _ ] BACKG: _ _ _ _
 
-NOTES: _____________________________________________________________________
-____________________________________________________________________________
-____________________________________________________________________________
-____________________________________________________________________________
-____________________________________________________________________________
+[  PERSONALITY TRAITS   |   FLAWS & WEAKNESSES 	 |   MOTIVES & BACKGROUNDS   ]
+1.CENTERED  7.SPIRITUAL  1.PRIDE  7.AMBITION     1.BLUE COLLAR  7.REHABILITATION
+2.TRICKSTER 8.PASSIONATE 2.ENVY   8.IGNORANCE    2.COUNTRY LIFE 8.MENTORSHIP
+3.COCKY     9.CONFIDENT  3.VANITY 9.SELF-ESTEEM  3.IMMIGRATION  9.COACH LINEAGE
+4.ANIMAL    10.RESILIENT 4.WRATH  10.RECKLESS    4.BOOTCAMP CUT 10.THUG LIFE
+5.TECHNICAL 11.TACTICIAN 5.GREED  11.GRUDGES     5.FAMILY PROV. 11.BIG CITY KID
+6.BULLY     12.SOCIOPATH 6.LUST   12.INSTABILITY 6.SMALL TOWNEY 12.OLD MONEY
 
 ================================================================================
 > END OF ROSTER PROFILING LOG...
