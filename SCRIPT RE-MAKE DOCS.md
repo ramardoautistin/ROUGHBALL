@@ -69,8 +69,10 @@ it might be 4am, and for the 7th time your sibling knows nothing about the "vete
 the millenium era for the lake brown seahawks..." but they still love you anyway i think)
 
 * The GLOBAL NATIONS territory is deeply striken by individual morals and values from every culture spread across the globe:
-- the UNITED SOUTH is a culture of gritty and passionate hard workers that love playing ball and fighting for what's theirs, representing a "guerrillero" build.
-- the HEARTLAND is the new, fast and agressive league taking the global nations by storm with its flashy budget and stratetical management, more of a "theatrical" mindset.
+- the UNITED SOUTH is a culture of gritty and passionate hard workers that love playing ball 
+and fighting for what's theirs, representing a "guerrillero" build.
+- the HEARTLAND is the new, fast and agressive league taking the global nations by storm with 
+its flashy budget and stratetical management, more of a "theatrical" mindset.
 - the PROMISED LAND are our absolute rebels, coming from the most culturally diverse backgrounds and walks of life,
 ensuring their players are scarily vicious and rugged due to their geographical upbringing... the "outcast rebels" profile.
 - the NORDIC ELITE, as the name implies, are the most elitist and insufferable of the nations (for good reasons, they kinda
@@ -78,20 +80,18 @@ invented this sport before spreading it around through colonization...) they rep
 
 > ROUGHBALL ERAS represent the evolution of the sport across the global nations timeline!
 - OLD TIMEY: an era before widespread coverage and communication prioritized consolidating the industry in its bare infancy,
-focused on "bad-blood" rivalries, regional prestige, and "hood brawls". during the structural foundation of the sport on a regional
-basis, much more emphasis was put onto the yearly championship for the RING!
+focused on "bad-blood" rivalries, regional prestige, and "hood brawls". during the structural foundation of the sport on a regional basis, much more emphasis was put onto the yearly championship for the RING!
 
-- GOLDEN AGE: globalization and live television brought the peak of the sport, focusing on the scandals, controversies, superstars
-and disgraces, along with a fresh new boiling pot of style and skill. with mass media coverage across hemispheres, it instantly
-gave way for the global hype ensued regarding the CROWN DUEL overseas club wipeout brackets!
+- GOLDEN AGE: globalization and live television brought the peak of the sport, focusing on the scandals, controversies, superstars and disgraces, along with a fresh new boiling pot of style and skill. with mass media coverage 
+across hemispheres, it instantly gave way for the global hype ensued regarding the CROWN DUEL overseas club wipeout brackets!
 
-- MILLENIUM: the corporate era brought with itself a thrist for franchise capitalization and stats analytics, that simply re-invented
-the industry into the brand new numbers game and asset trading roulette it has become now...  this new "venture capitalism" mindset 
-shifted the market toward draft prospects and their potential trade value contributions to a franchise team roster!
+- MILLENIUM: the corporate era brought with itself a thrist for franchise capitalization and stats analytics, that simply re-invented the industry into the brand new numbers game and asset trading roulette it has become now...  
+this new "venture capitalism" mindset shifted the market toward draft prospects and their potential trade 
+value contributions to a franchise team roster!
 
-- PANDEMICAL: a pandemic state forced the world into "spectator mode" in many ways... during the age of online streaming and fanatic engagement, now
-viral "flashy" plays rule the viewership counts, along with this era being the most prodigial one recorded yet! the calibre of prestige, anticipation
-and yearning for the FOUR NATIONS WORLD CUP every four years is what currently grew the access and coverage for this huge INTERNATIONAL TOURNAMENT!
+- PANDEMICAL: a pandemic state forced the world into "spectator mode" in many ways... during the age of online streaming and fanatic engagement, now viral "flashy" plays rule the viewership counts, along with this era being the most
+prodigial one recorded yet! the calibre of prestige, anticipation and yearning for the FOUR NATIONS WORLD CUP every 
+four years is what currently grew the access and coverage for this huge INTERNATIONAL TOURNAMENT!
 
 > A player could do a "started from the bottom now we here" run, where they draft pull an 8 man roster of rookies 
 (no stars at all) for the D4 BAKCYARD AMATEUR league, and abide to develop them throughout every single step of the career
@@ -132,13 +132,12 @@ these players are extremely valuable (if we had six stars ratings in the game, t
 therefore their market trading price is just as big...)
 
 > As for the "positional coaches": there are none... a coach can have different coaching philosohpies or mindsets depending
-on their background, and the "top" positional players or best rated prospects can strive to become "strategic advisors" regarding the
-suit they are specialized in (that's why scrimmagers, field generals, pitch guards and air raiders all get a seat during press conferences or team meetings:
-they have to act as positional captains and take accountability for mistakes (and praise as well) after being the best rated player for a suit in the roster.
-there's no "captain" and no "offensive/defensive coordinator". the best two players, each representing a colored band on their biceps that shows you 
-THEY are either DRIVING (red) or HOLDING (black) ADVISORS for their own head coach.
+on their background, and the "top" positional players or best rated prospects can strive to become "strategic advisors"
+regarding the suit they are specialized in (that's why scrimmagers, field generals, pitch guards and air raiders all get
+a seat during press conferences or team meetings: they have to act as positional captains and take accountability for mistakes (and praise as well) after being the best rated player for a suit in the roster. there's no "captain" and no "offensive/defensive coordinator" to take the blame for you. the best two players, each representing a colored band on their biceps that 
+shows you THEY are either DRIVING ADVISOR (red) or HOLDING ADVISOR (black) for their own head coach.
 
-* After a veteran player RETIRES, they can take up coaching to enforce one of the following philosophies based on the DUAL THREAT COACHING ARCHETYPES:
+* After a veteran RETIRES, they can take up coaching to enforce the following philosophies based on COACHING ARCHETYPES:
 J. PITCH GENERAL / "PLAY 4 KICKS": trickster playcalls that rely on kicking for points instead of just running the ball without a plan...
 K. WING BACKER / "OLD SCHOOL": vintage mindset that relies on scrimmages and horizontal passing to break through towards endzone conversions!
 Q. FIELD RAIDER / "PURE DRIVE": relentless playmaking and passing routes that ensure constant driving forward movement of the ball.
@@ -147,9 +146,10 @@ D. AIR PITCHER / "NEW SCHOOL": extreme verticality and fast-paced live-play due 
 C. TACKLE CARRIER / "2 ROUGH BALLS": tackling everything that moves and just running the ball seems to work almost flawlessly sometimes...
 * for this system i use a poker die, however a d6 works, otherwise stick to drafted dual threat veterans from card picks
 
-* You see how these coaching philosophies represent the antithesis of each other? you either "play 4 kicks" or have "2 rough balls",
-you either think "old school" or "new school", you prioritize either "pure drive" or "pure hold"...
-you see how different teams and coaching styles could clash between each other within this system?
+* You see how these coaching philosophies represent the antithesis of each other? 
+you either "play 4 kicks" or have "2 rough balls", you either think "old school" or "new school",
+you prioritize either "pure drive" or "pure hold"... you see how different teams and coaching styles
+could clash between each other within this system?
 
 > The 8 man roster draft could have already gotten specialized backup roles (or even dual threar players) from the joker draft.
 the 4 EXTRA players (backups players, x-factor assets for late games, extra specialists, hell you could even setup a 
@@ -158,17 +158,17 @@ and is the "most tradable" roster... a starter player moved to the backup leaves
 it becomes our collateral reserve, either saving or breaking a team based on the trade market...
 
 * All cards pulled equal you got a player:
-# 2 - 10 + suit: bottom position player based on suit
-# face card + suit: top position player based on suit
-# JKR + number card: corner position player based on suit
-# JKR + face card: specialized dual threat veteran based on face card pull
-# JKR + JKR: dual threat veteran with "free pick" regarding specialization
+- 2 - 10 + suit: bottom position player based on suit
+- face card + suit: top position player based on suit
+- JKR + number card: corner position player based on suit
+- JKR + face card: specialized dual threat veteran based on face card pull
+- JKR + JKR: dual threat veteran with "free pick" regarding specialization
 
-- I think we can now visualize how backup or "reserve" players work: the STARTER roster consists of our 8 main players and postions
-(top + bottom) the BACKUP roster has 4 extra slots that could either be JKR (corner) position players, perhaps even dual threat veterans!!
-or simply a "duplicate" 1 star running guard that came up in the last draft and is simply waiting for a star player injury for him
-earn some match minutes! for newly founded/acquired clubs and franchises, the 4 man backup roster starts out empty, and teams must 
-survive a full season up to the draft period in order to acquire their 4 picks for backup and special players!
+* I think we can now visualize how backup or "reserve" players work: the STARTER roster consists of our 8 main players and postions (top + bottom) the BACKUP roster has 4 extra slots that could either be JKR (corner) position players,
+perhaps even dual threat veterans!! or simply a "duplicate" 1 star running guard that came up in the last draft
+and is simply waiting for a star player injury for him earn some match minutes! 
+for newly founded/acquired clubs and franchises, the 4 man backup roster starts out empty, and teams must survive 
+a full season up to the draft period in order to acquire their 4 picks for backup and special players!
 
 - This allows our rosters to naturally "grow into" their star quality, leaving the "d6-1" formula to random draft
 picks at the end of a season, and actually make players "developable" throughout their careers.
@@ -184,26 +184,36 @@ that determines the ACTUAL value of said JKR player)
 
 * Regarding actual LIVE BALL MECHANICS, i needed to clarify the three different "domains" of play outcomes:
 1. SCORING: reaching the endzone while carrying the ball grants a TRY, which is worth 5 pts and a possession flippage.
-a FIELD GOAL can be triggered by a complication, or drawn into a playcall, and it grants instant 3 pts + neutral possession reset.
+a FIELD GOAL can be triggered by a complication, or drawn into a playcall, and grants instant 3 pts + neutral possession reset.
 a SACK is only the result of a complication, but it is worth 2 pts + possession flippage (driving -> holding)
 an INT is also a result of the "interception complication" and it grants and instant point + flippage (holding -> driving)
 
 2. POSSESSION: roughball only features three possible formations based on the current state of the game:
-* DRIVING = offensive routes (red suits) / HOLDING = defensive coverages (black suits) / NEUTRAL = combined playcalls (mixed suits)
-- NEUTRAL formation is the "standarized" position nomenclature, and players only use the common abbreviations like QB or LB based on possession.
+*DRIVING = offensive routes (red suits) |HOLDING = defensive coverages (black suits)|NEUTRAL = combined playcalls (mixed suits)
+- NEUTRAL formation = the "standard" position nomenclature, players only use common abbreviations like QB/LB based on possession. 
 
 3. PLAY OUTCOMES: what actually "triggers" after the dice were rolled and there wasn't a clean winner! 
-* DUAL SPLITS rolled would trigger complications and saving throws, a fumble must be followed with a re-audible, a stalemate requires a stat/card breaker!
-- these should be treated as common "tabletop roleplaying" dice rolls: we have stat checks in the form of suit ratings and the breaker,
-we use those same stats to roll a d6 saving throw and add your save modifiers, you can use your audible to trick teams, create signature plays, and so on...
-- the rules allow for 2 TIMEOUTS, which represent "DECK RE-SHUFFLES" in game, as to enforce a "strategical reset" for the "mindset" of your imaginary players!
-  (thus allowing actual DECK BURN, strategic timeouts to put the opponent at disadvantage, and a general MANAGEMENT layer to a simple "card draw loop")
+* DUAL SPLITS rolled would trigger complications and saving throws, 
+a fumble must be followed with a re-audible, a stalemate requires a stat/card breaker!
+- these should be treated as common "tabletop roleplaying" dice rolls: 
+we have stat checks in the form of suit ratings and the breaker,
+we use those same stats to roll a d6 saving throw and add your save modifiers, 
+you can use your audible to trick teams, create signature plays, and so on...
+- the rules allow for 2 TIMEOUTS, which represent "DECK RE-SHUFFLES" in game, 
+as to enforce a "strategical reset" for the "mindset" of your imaginary players!
+(thus allowing actual DECK BURN, strategic timeouts to put the opponent at disadvantage, 
+and a general MANAGEMENT layer to a simple "card draw loop")
 
 4. GAME ASSETS: this proto-ball-sport can be played in the following four formats:
-1. PHYSICAL TABLETOP ROLEPLAYING -> two separate 54 playing card decks, 2 pairs of D66 + d4 + d8 + coins and poker chips if you'd like +  a chessboard w/ 8 tokens per team.
+1. PHYSICAL TABLETOP ROLEPLAYING -> 
+two separate 54 playing card decks, 2 pairs of D66 + d4 + d8 + coins and poker chips +  a chessboard w/ 8 tokens per team.
 2. TABLETOP SIMULATOR ENVIRONMENT -> a digitized but tactile version of the handbooks, printable spreadsheets, hand-drawn world maps, field mat and game assets required.
-3. SIMULATED ASCII MATCHUPS -> computer environment that handles math, scoring and logs in quicktime fashion, as to ease the brain load put on the player to allow more roleplay!
-4. ACTUAL GRASS? WITH AN ACTUAL BALL? -> if you manage to find 8/16 suckers who like getting hit and smelling bad, this conceptual game is actually entirely achievable IRL!
-(ask my 9 year old self, who invented "tonto del rugby", a game that included a rugby ball being passed over the heads of you opponent (argentinian "tonto del medio" style) in
-attempts to score a try or simply get rugby-tackled while trying! sounds familiar at all?? this is a childhood dream of mine being realized in a wholesome way... this world now exists!)
+3. SIMULATED ASCII MATCHUPS -> computer environment that handles math, scoring and logs in quicktime fashion, 
+as to ease the brain load put on the player to allow more roleplay and franchise development!
+4. ACTUAL GRASS? WITH AN ACTUAL BALL? -> if you manage to find 8/16 suckers who like getting hit and smelling bad,
+this conceptual game is actually entirely achievable IRL! (ask my 9 year old self, who invented "tonto del rugby", 
+a game that included a rugby ball being passed over the heads of you opponent (argentinian "tonto del medio" style) in
+attempts to score a try or simply get rugby-tackled while trying! 
+sounds familiar at all?? this is a childhood dream of mine being realized in a wholesome way... this world now exists!)
+
 
