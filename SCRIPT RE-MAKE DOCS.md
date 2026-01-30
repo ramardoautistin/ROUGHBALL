@@ -63,7 +63,7 @@ maybe 8 seasons ago, when you were still in that smelly locker room... you see t
 - I can easily "visualize" those three kinds of guys playing roughball: 
 1. a sports fan with a knack for statistic spreadsheets and trade economics (some experts call it "gambling" lmao). 
 2. a retired american football coach flipping the table over a re-audible play gone awry for their veteran roughball team.
-3. a young rugby player having a pint with his friends yelling over how the caranchos won twice the amount of rings as the yacarés 
+3. a young rugby player having a pint with his friends yelling over how caranchos won twice the amount of rings as yacarés 
 (4. a young sister or brother seeing you hunched over fantasy spreadhseets right from outside your dormitory...
 it might be 4am, and for the 7th time your sibling knows nothing about the "veteran wingbacker that played in
 the millenium era for the lake brown seahawks..." but they still love you anyway i think)
@@ -213,7 +213,7 @@ as to ease the brain load put on the player to allow more roleplay and franchise
 4. ACTUAL GRASS? WITH AN ACTUAL BALL? -> if you manage to find 8/16 suckers who like getting hit and smelling bad,
 this conceptual game is actually entirely achievable IRL! (ask my 9 year old self, who invented "tonto del rugby", 
 a game that included a rugby ball being passed over the heads of you opponent (argentinian "tonto del medio" style) in
-attempts to score a try or simply get rugby-tackled while trying! 
-sounds familiar at all?? this is a childhood dream of mine being realized in a wholesome way... this world now exists!)
+attempts to score a try or simply get rugby-tackled while trying! sounds familiar at all?? 
+this is a childhood dream of mine being realized in a wholesome way... this world now exists!)
 
 
