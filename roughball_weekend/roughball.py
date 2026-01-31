@@ -146,38 +146,44 @@ Drills (d4-1 bonus to selected stat - USER CHOICE):
 - ♥ Box Snaps (AWR) / Carrier Sprints (SPD)
 - ♠ Pursuit Tackling (INT) / Post Kicking (KCK)
 - ♦ Shuffle Passing (PAS) / Contested Catching (CAT)
+# EXAMPLE POSITIONAL DRILL SELECTOR FOR THE SCRIPT:
+    #print("\nWhich position group do you want to focus on?")
+    #print("  [1] Scrimmagers (TKL)")
+    #print("  [2] Field Generals (AWR)")
+    #print("  [3] Pitch Guards (INT)")
+    #print("  [4] Air Raiders (PAS)")
 
 Facilities by era:
-1. muddy training field (Old-Timey)
-2. sports arena dome (Golden Age)
-3. corpo-funded stadium (Millennium)
-4. private facility HQ (Pandemical)
+1. Muddy Training Field (Old-Timey)
+2. Sports Arena Dome (Golden Age)
+3. Corpo-Funded Stadium (Millennium)
+4. Private Facility HQ (Pandemical)
 
 === STUDY WEDNESDAY ===
 Methods (d4-1 bonus to random saving throw):
 1. Blackboard Lecture
-   - sticks on a sandbox (Old-Timey)
-   - chalk and blackboards (Golden Age)
-   - projectors in lecture halls (Millennium)
-   - online campus zoom meeting (Pandemical)
+   - Sticks on a Sandbox (Old-Timey)
+   - Chalk and Blackboards (Golden Age)
+   - Projectors in Lecture Halls (Millennium)
+   - Online Campus Zoom Meeting (Pandemical)
 
 2. Film Review
-   - photographed stills and 8mm film (Old-Timey)
-   - vhs tapes taken from handycam (Golden Age)
-   - replay highlights compiled onto dvds (Millennium)
-   - instant tablet clip-reviews (Pandemical)
+   - Photographed stills and 8mm film (Old-Timey)
+   - VHS tapes taken from handycam (Golden Age)
+   - Replay highlights compiled onto DVDs (Millennium)
+   - Instant tablet clip-reviews (Pandemical)
 
 3. Playbook Design
-   - callouts and signaling (Old-Timey)
-   - scribbled out notepads (Golden Age)
-   - thick-bound textbook (Millennium)
-   - virtual online playbook (Pandemical)
+   - Callouts and signaling (Old-Timey)
+   - Scribbled-out notepads (Golden Age)
+   - Thick-bound textbook (Millennium)
+   - Virtual online playbook (Pandemical)
 
 4. Rivalry Analytics
-   - word of mouth and rumors (Old-Timey)
-   - surveillance-espionage tendencies (Golden Age)
-   - computed spreadsheet analysis (Millennium)
-   - virtual reality predictive simulations (Pandemical)
+   - Word of mouth and rumors (Old-Timey)
+   - Surveillance-espionage tendencies (Golden Age)
+   - Computed spreadsheet analysis (Millennium)
+   - Virtual reality predictive simulations (Pandemical)
 
 === MATCH DAYS ===
 Thu: D4 Backyard Amateur (crackhead vibes: hood brawls, smelly locker rooms)
