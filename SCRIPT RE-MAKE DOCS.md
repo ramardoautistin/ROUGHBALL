@@ -79,19 +79,23 @@ ensuring their players are scarily vicious and rugged due to their geographical 
 invented this sport before spreading it around through colonization...) they represent our true "old guard" nation!
 
 > ROUGHBALL ERAS represent the evolution of the sport across the global nations timeline!
-- OLD TIMEY: an era before widespread coverage and communication prioritized consolidating the industry in its bare infancy,
+- OLD TIMEY: (cable telephones, radio sets, scribbled wall calendars, wrinkled newspapers, half opened envelopes with business letters, a messy abacus from counting trades...)
+an era before widespread coverage and communication prioritized consolidating the industry in its bare infancy,
 focused on "bad-blood" rivalries, regional prestige, and "hood brawls". during the structural foundation of the sport on a regional basis, much more emphasis was put onto the yearly championship for the RING!
 
-- GOLDEN AGE: globalization and live television brought the peak of the sport, focusing on the scandals, controversies, superstars and disgraces, along with a fresh new boiling pot of style and skill. with mass media coverage 
+- GOLDEN AGE: (cathoid televisions, vhs tapes, polaroid pictures, sports magazines, game consoles, yearbooks full of stardom memories!)
+globalization and live television brought the peak of the sport, focusing on the scandals, controversies, superstars and disgraces, along with a fresh new boiling pot of style and skill. with mass media coverage 
 across hemispheres, it instantly gave way for the global hype ensued regarding the CROWN DUEL overseas club wipeout brackets!
 
-- MILLENIUM: the corporate era brought with itself a thrist for franchise capitalization and stats analytics, that simply re-invented the industry into the brand new numbers game and asset trading roulette it has become now...  
+- MILLENIUM: (clunky personal computers, office supplies scattered everywhere, cds and diskettes full of spreadsheet data, cellular phones that can barely receive a text...)
+the corporate era brought with itself a thrist for franchise capitalization and stats analytics, that simply re-invented the industry into the brand new numbers game and asset trading roulette it has become now...  
 this new "venture capitalism" mindset shifted the market toward draft prospects and their potential trade 
 value contributions to a franchise team roster!
 
-- PANDEMICAL: a pandemic state forced the world into "spectator mode" in many ways... during the age of online streaming and fanatic engagement, now viral "flashy" plays rule the viewership counts, along with this era being the most
-prodigial one recorded yet! the calibre of prestige, anticipation and yearning for the FOUR NATIONS WORLD CUP every 
-four years is what currently grew the access and coverage for this huge INTERNATIONAL TOURNAMENT!
+- PANDEMICAL: (triple widescreen monitors, streaming cameras and microphones, gaming computers and haptic joysticks, glass void smartphones and tablets!)
+a pandemic state forced the world into "spectator mode" in many ways... during the age of online streaming and fanatic engagement, now viral "flashy"
+plays rule the viewership counts, along with this era being the most prodigial one recorded yet! the calibre of prestige, anticipation and yearning
+for the FOUR NATIONS WORLD CUP every four years is what currently grew the access and coverage for this huge INTERNATIONAL TOURNAMENT!
 
 > A player could do a "started from the bottom now we here" run, where they draft pull an 8 man roster of rookies 
 (no stars at all) for the D4 BAKCYARD AMATEUR league, and abide to develop them throughout every single step of the career
@@ -134,8 +138,10 @@ therefore their market trading price is just as big...)
 > As for the "positional coaches": there are none... a coach can have different coaching philosohpies or mindsets depending
 on their background, and the "top" positional players or best rated prospects can strive to become "strategic advisors"
 regarding the suit they are specialized in (that's why scrimmagers, field generals, pitch guards and air raiders all get
-a seat during press conferences or team meetings: they have to act as positional captains and take accountability for mistakes (and praise as well) after being the best rated player for a suit in the roster. there's no "captain" and no "offensive/defensive coordinator" to take the blame for you. the best two players, each representing a colored band on their biceps that 
-shows you THEY are either DRIVING ADVISOR (red) or HOLDING ADVISOR (black) for their own head coach.
+a seat during press conferences or team meetings: they have to act as positional captains and take accountability for mistakes
+(and praise as well) after being the best rated player for a suit in the roster. there's no "captain" and no
+"offensive/defensive coordinator" to take the blame for you. the best two players, each representing a colored band
+on their biceps that shows you THEY are either DRIVING ADVISOR (red) or HOLDING ADVISOR (black) for their own head coach.
 
 * After a veteran RETIRES, they can take up coaching to enforce the following philosophies based on COACHING ARCHETYPES:
 J. PITCH GENERAL / "PLAY 4 KICKS": trickster playcalls that rely on kicking for points instead of just running the ball without a plan...
@@ -164,10 +170,12 @@ it becomes our collateral reserve, either saving or breaking a team based on the
 - JKR + face card: specialized dual threat veteran based on face card pull
 - JKR + JKR: dual threat veteran with "free pick" regarding specialization
 
-* I think we can now visualize how backup or "reserve" players work: the STARTER roster consists of our 8 main players and postions (top + bottom) the BACKUP roster has 4 extra slots that could either be JKR (corner) position players,
-perhaps even dual threat veterans!! or simply a "duplicate" 1 star running guard that came up in the last draft
-and is simply waiting for a star player injury for him earn some match minutes! 
-for newly founded/acquired clubs and franchises, the 4 man backup roster starts out empty, and teams must survive 
+* I think we can now visualize how backup or "reserve" players work: 
+the STARTER roster consists of our 8 main players and postions (top + bottom) 
+the BACKUP roster has 4 extra slots that could either be JKR (corner) position players, perhaps even 
+dual threat veterans!! or simply a "duplicate" 1 star running guard that came up in the last draft
+and is simply waiting for a star player injury for him earn some match minutes! for newly founded/acquired
+clubs and franchises, the 4 man backup roster starts out empty, and teams must survive 
 a full season up to the draft period in order to acquire their 4 picks for backup and special players!
 
 - This allows our rosters to naturally "grow into" their star quality, leaving the "d6-1" formula to random draft
@@ -205,9 +213,8 @@ as to enforce a "strategical reset" for the "mindset" of your imaginary players!
 and a general MANAGEMENT layer to a simple "card draw loop")
 
 4. GAME ASSETS: this proto-ball-sport can be played in the following four formats:
-1. PHYSICAL TABLETOP ROLEPLAYING -> 
-two separate 54 playing card decks, 2 pairs of D66 + d4 + d8 + coins and poker chips +  a chessboard w/ 8 tokens per team.
-2. TABLETOP SIMULATOR ENVIRONMENT -> a digitized but tactile version of the handbooks, printable spreadsheets, hand-drawn world maps, field mat and game assets required.
+1. PHYSICAL TABLETOP ROLEPLAYING -> two separate 54 playing card decks, 2 pairs of D66 + d4 + d8 + coins and poker chips +  a chessboard w/ 8 tokens per team.
+2. TABLETOP SIMULATOR ENVIRONMENT -> a digitized but tactile version of the handbooks, printable spreadsheets, hand-drawn world maps, field mat/game assets required.
 3. SIMULATED ASCII MATCHUPS -> computer environment that handles math, scoring and logs in quicktime fashion, 
 as to ease the brain load put on the player to allow more roleplay and franchise development!
 4. ACTUAL GRASS? WITH AN ACTUAL BALL? -> if you manage to find 8/16 suckers who like getting hit and smelling bad,
@@ -215,5 +222,3 @@ this conceptual game is actually entirely achievable IRL! (ask my 9 year old sel
 a game that included a rugby ball being passed over the heads of you opponent (argentinian "tonto del medio" style) in
 attempts to score a try or simply get rugby-tackled while trying! sounds familiar at all?? 
 this is a childhood dream of mine being realized in a wholesome way... this world now exists!)
-
-
