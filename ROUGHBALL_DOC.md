@@ -182,13 +182,13 @@ D | WB   .   .   .   RG   .   .   TB |    ♠ SPADES   |(OG) |  (OT)  | (CB)   |
 - [D4: 1 YEAR, 0 STARS | D3: 2 YEARS, +1 STAR | D2: 3 YEARS, +2 STARS, | D1: 4 YEARS, +3 STARS]
 
 * Allows player to become DUAL THREAT or double position VETERAN due to accumulated training camps.
-> DUAL POSITION VETERAN ARCHETYPES (determined by drawn cards after earned JKR):
-1. PITCH GENERAL (♠ + ♡): kicking + playcalling -> JKR + JESTER (ANY)  
-2. WING BACKER (♣ + ♢): scrimmage + reception -> JKR + RED QUEEN
-3. FIELD RAIDER (♡ + ♢): handovers + routes -> JKR + RED ACE
-4. SCRUM GUARD (♣ + ♠) : rucking + punting -> JKR + BLACK ACE
-5. AIR PITCHER (♢ + ♠): catching + goaling -> JKR + KING (ANY)
-6. TACKLE CARRIER (♣ + ♡): scrum + ball protection -> JKR + BLACK QUEEN
+> DUAL POSITION VETERAN ARCHETYPES (determined by drawn card after a JKR)| (COACH PHILOSPHY)
+1. PITCH GENERAL (♠ + ♡): kicking + playcalling -> JKR + JESTER (ANY)    | J. "PLAY 4 KICKS"
+2. WING BACKER (♣ + ♢): scrimmage + reception -> JKR + RED QUEEN         | K. "OLD SCHOOL"
+3. FIELD RAIDER (♡ + ♢): handovers + routes -> JKR + RED ACE             | Q. "PURE DRIVE"
+4. SCRUM GUARD (♣ + ♠) : rucking + punting -> JKR + BLACK ACE            | A. "PURE HOLD"
+5. AIR PITCHER (♢ + ♠): catching + goaling -> JKR + KING (ANY)           | D. "NEW SCHOOL"
+6. TACKLE CARRIER (♣ + ♡): scrum + ball protection -> JKR + BLACK QUEEN  | C. "2 ROUGH BALLS"
 * BONUS: [JKR + JKR = pick any DUAL THREAT VETERAN position available!]
 
 ## NRBL DIVISIONAL TEAMS AND FRANCHISES (FOUNDING / EXPANSION)
@@ -308,4 +308,5 @@ EF: CARPINCHOS del Estero 🐗🏙       EF: Al Arab Dunes RHINOS 🦏🏜      
 EE: VIZCACHAS Pampeanas 🐇🏕         EE: Gizeh Pyramids GIRAFFES 🦒☀️   EE: Kraine Hamlet CRANES 🕊🏘
 WF: YAGUARETÉS de Yunga Amazão 🐆🌴  WF: Zulu Nation ZEBRAS 🦓🌄       WF: Roman Coast WOLVES 🐺🏛
 WE: ORCAS Atlánticas 🐋🏖            WE: Camerun Mines ELEPHANTS 🐘🏗   WE: Leningrad Front FOXES 🦊🏰
+
 
