@@ -54,9 +54,15 @@
 
 # POSITIONS
 
+* SCRIMMAGERS:
+
 (DT) defensive tackle: strongest member of the d-line. can stand ground better than anyone on the team.
 
 (DE) defensive end: guards the corner of the d-line. can bull-rush the opposing d-line or stand ground at the snap.
+
+(LB) linebacker: back of the d-line, responsible for guarding the end-zone.
+
+* PITCH GUARDS:
 
 (OG) offensive guard: center guard of the d-line, focused on tackling moving guards and rushers.
 
@@ -64,18 +70,33 @@
 
 (CB) cornerback: responsible for guarding the corners of the end-zone, along with any "escapees" from the opposing team.
 
-(LB) linebacker: back of the d-line, responsible for guarding the end-zone.
-
-(SG) safety guard: moving tackles, responsible for blitz routes and trick-play defenses. can double as linebackers when needed.
-
+* FIELD GENERALS:
 
 (QB) quarterback: responsible for the snap and all the play-making. calls plays and performs passes, runs and handoffs to offensive teammates.
 
 (RB) running back: designated player for runs. expert ball protectors that can take more than a couple of tackles.
 
+(SG) safety guard: moving tackles, responsible for blitz routes and trick-play defenses. can double as linebackers when needed.
+
+> NEUTRAL FORMATION: (QG) quarter guard: backfield generals (RG) running guard: ball carriers and possession guards.
+
+* AIR RAIDERS:
+
 (WR) wide receiver: designated player for passes. impeccable hands and route running are required for the job.
 
 (TE) tight end: extra corner-receiver that can also double as a moving tackle to protect receivers and backs in their runs.
+
+(SG) safety guard: bonus routes, tackling backups, general player and possession control on the field.
+
+> NEUTRAL FORMATION: (WB) wingback: corner routes and pass receivers (TB) tailback: flanker routes or carrier protectors.
+
+* DUAL THREAT POSITIONS + COACHING PHILOSOPHIES
+1. PITCH GENERAL: kicking + playcalling | "PLAY 4 KICKS" -> fun trickster playcalls that rely on kicking for points instead of just going for the run without a plan...
+2. WING BACKER: tackling + reception | "OLD SCHOOL" -> vintage mindset that utilizes scrimmages and horizontal passing for endzone conversions.
+3. FIELD RAIDER: handovers + routes | "PURE DRIVE" -> relentless playmaking and passing routes ensures a constant forward offensive movement of the ball!
+4. SCRUM GUARD: rucking + box kicks | "PURE HOLD" -> clogging up the scrimmage line and forcing rucks to earn defensive possessions dominates the holding game!
+5. AIR PITCHER: catching + goaling | "NEW SCHOOL" -> extreme verticality in live play due to strong and skilled pass-kicking pairings.
+6. TACKLE CARRIER: scrimmage + carries | "2 ROUGH BALLS" -> tackling everything that moves and just running the ball tends to work flawlessly sometimes...
 
 # FORMATIONS
 
@@ -108,27 +129,24 @@
 
 [O]:
 
+    (WR)          (TE)
+           (RB)
+           (QB)
     (DT) (OG) (OT) (DE)
-            (QB)
-            (RB)
-  (WR)                (TE)
-
-
+            
 [X]:
 
     (DT) (OG) (OT) (DE)
            (SG)
            (SG)
-  (CB)                (LB)
-
-
+    (CB)            (LB)
+  
 [N]:
 
-    (T) (G) (T) (G)
-          (Q)
-          (R)
-  (CB)            (TE)
-
+    (OG) (DT) (OT) (DE)
+          (QG)
+          (RG)
+    (WB)            (TB)
 
 - 16 players: two different rosters for offense/defense.
 
@@ -138,16 +156,14 @@
 
 ---------
    X X
-x       X -> d-line can stand ground or rush the offense. |
+x       X -> d-line can stand ground or rush the offense.  |
  X X X X                                                   v 
  | |o| |  ----> scrimmage at snap point                             ^
  0 0 0 0  -> o-line creates forward movement to open space upwards. |
-0 (QB)  0   (allowing the QB to get the snap).
+0 (QB)  0   (allowing the QB to get the snap OR opposing d-line to acquire possession).
     0       
 
 ---------
-
-* once any QB or player has possession of the ball, the scrum breaks to allow defenders to fall into their assigned positions.
 
 # DRILLS
 
@@ -155,25 +171,25 @@ x       X -> d-line can stand ground or rush the offense. |
 
 (2-10: reps | FACE: 11 reps | ACE: 12 reps | JKR: to failure)
 
-♠ PURSUIT TACKLE + (RUN)
+♣ ZONE: RUSH TACKLE | SCRUM LOCKS (TKL/STA)
 
-♥ BOX SNAP + (PUSH)
+♥ RUN: BOX SNAPS | CARRIER SPRINTS (AWR/SPD)
 
-♦ SHUFFLE CATCH + (RUN)	
+♠ BLITZ: PURSUIT TACKLE | POST KICKING (INT/KCK)
 
-♣ RUSH TACKLE + (PUSH)
+♦ PASS: SHUFFLE PASS | CONTESTED CATCH (PAS/CAT)
 
 WARMUP: ♠ x drill - ♥  □ drill - ♦ △ drill - ♣ cone suicides - JKR: skate jumps
 
 [DECK OF PLAYS]
 
-♠ BLITZ
+♣ ZONE
 
 ♥ RUN
 
-♦ PASS
+♠ BLITZ
 
-♣ ZONE
+♦ PASS
 
 (2-10: routes | J: posts, Q: y form, K: dash form | ACE: spread form | JKR: fake)
 
@@ -198,16 +214,6 @@ WARMUP: ♠ x drill - ♥  □ drill - ♦ △ drill - ♣ cone suicides - JKR: 
 8. stacks
 9. slants
 10. man 2 man
-
-# PLAY STUDY
-
-
-
-
-
-
-
-
 
 
 
